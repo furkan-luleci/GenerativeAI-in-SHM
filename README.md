@@ -128,14 +128,69 @@ Sensors [[Paper](https://www.mdpi.com/1424-8220/22/3/858)] \
 23 January 2022
 
 **Continuous missing data imputation with incomplete dataset by generative adversarial networks–based unsupervised learning for long-term bridge health monitoring** \
-*Yizhou Zhuang,Jiacheng Qin,Bin Chen, Chuanzhi Dong, Chenbo Xue, Said M. Easa* \
-Sensors [[Paper](https://www.mdpi.com/1424-8220/22/3/858)] \
-23 January 2022
+*Huachen Jiang, Chunfeng Wan, Kang Yang, Youliang Ding, Songtao Xue* \
+Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217211021942)] \
+June 4, 2021
+
+**Data driven structural dynamic response reconstruction using segment based generative adversarial networks** \
+*Gao Fan, Jun Li, Hong Hao, Yu Xin* \
+Engineering Structures [[Paper](https://doi.org/10.1016/j.engstruct.2021.111970)] \
+12 February 2021
+
+**Lost data reconstruction for structural health monitoring using deep convolutional generative adversarial networks** \
+*Xiaoming Lei, Limin Sun, Ye Xia* \
+Structural Health Monitoring [[Paper](https://doi.org/10.1177/1475921720959226)] \
+October 10, 2020
+
+**Deep learning and data augmentation based data imputation for structural health monitoring system in multi-sensor damaged state** \
+*Jiale Hou, Huachen Jiang, Chunfeng Wan, Letian Yi, Shuai Gao, Youliang Ding, Songtao Xue* \
+Measurement [[Paper](https://doi.org/10.1016/j.measurement.2022.111206)] \
+20 April 2022
+
+## Data Augmentation
+
+**Unsupervised domain adaptation with self-attention for post-disaster building damage detection** \
+*Yundong Li, Chen Lin, Hongguang Li, Wei Hu, Han Dong, Yi Liu* \
+Neurocomputing [[Paper](https://doi.org/10.1016/j.neucom.2020.07.005)] \
+14 July 2020
+
+**Railway Fastener Fault Diagnosis Based on Generative Adversarial Network and Residual Network Model** \
+*Dechen Yao, Qiang Sun, Jianwei Yang, Hengchang Liu, Jiao Zhang* \
+Shochk and Vibration [[Paper](https://www.hindawi.com/journals/sv/2020/8823050/)] \
+07 Nov 2020
+
+**Balanced semisupervised generative adversarial network for damage assessment from low-data imbalanced-class regime** \
+*Yuqing Gao, Pengyuan Zhai, Khalid M. Mosalam* \
+Computer-Aided Civil and Infrastructure Engineering [[Paper](https://doi.org/10.1111/mice.12741)] \
+28 June 2021
+
+**A general framework for supervised structural health monitoring and sensor output validation mitigating data imbalance with generative adversarial networks-generated high-dimensional features** \
+*Mohammad Hesam Soleimani-Babakamali, Roksana Soleimani-Babakamali, Rodrigo Sarlo* \
+Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217211025488)] \
+July 13, 2021
+
+**Enhancement of Multi-Class Structural Defect Recognition Using Generative Adversarial Network** \
+*Hyunkyu Shin,Yonghan Ahn, Sungho Tae, Heungbae Gil, Mihwa Song, Sanghyo Lee* \
+Sustainability [[Paper](https://www.mdpi.com/2071-1050/13/22/12682)] \
+16 November 2021
+
+**Crack Detection Based on Generative Adversarial Networks and Deep Learning** \
+*Gongfa Chen, Shuai Teng, Mansheng Lin, Xiaomei Yang, Xiaoli Sun* \
+KSCE Journal of Civil Engineering [[Paper](https://link.springer.com/article/10.1007/s12205-022-0518-2)] \
+24 January 2022
+
+**Attention-based generative adversarial network with internal damage segmentation using thermography** \
+*Rahmat Ali, Young-Jin Cha* \
+KSCE Journal of Civil Engineering [[Paper](https://doi.org/10.1016/j.autcon.2022.104412)] \
+13 June 2022
+
+**Generative adversarial networks for labeled acceleration data augmentation for structural damage detection** \
+*Furkan Luleci, F. Necati Catbas, Onur Avci* \
+Journal of Civil Structural Health Monitoring [[Paper](https://link.springer.com/article/10.1007/s13349-022-00627-8)] \
+24 September 2022
+
+## Data Domain Translation
 
 
-
-
-
-## Signal Type of Data
 
 
