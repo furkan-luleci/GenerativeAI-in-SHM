@@ -14,7 +14,7 @@ Frontiers in Built Environment [[Paper](https://www.frontiersin.org/articles/10.
 
 **Generative adversarial networks review in earthquake-related engineering fields** \
 *Giuseppe Carlo Marano, Marco Martino Rosso, Angelo Aloisio, Giansalvo Cirrincione* \
-Bulletin of Earthquake Engineering [[Paper](https://doi.org/10.1016/j.buildenv.2022.109477)] \
+Bulletin of Earthquake Engineering [[Paper](https://link.springer.com/article/10.1007/s10518-023-01645-7)] \
 28 February 2023
 
 **A brief introductory review to deep generative models for civil structural health monitoring** \
