@@ -144,9 +144,9 @@ Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymss
 arXiv [[Paper](https://doi.org/10.48550/arXiv.2212.14048)] \
  28 December 2022 
 
-## Data Generation for Various Other SHM Applications
+## Data Generation for Various SHM Applications
 
-### Data Generation (only)
+### Data Generation (Only)
 
 **Generative Model of Acceleration Data for Deep Learning-based Damage Detection for Bridges Using Generative Adversarial Network** \
 *Lee Kanghyeok, Shin Do Hyoung* \
@@ -209,7 +209,7 @@ Engineering Applications of Neural Networks [[Paper](hhttps://link.springer.com/
 10 June 2022
 
 
-### Data Denoising, Repair, Deblurring and Increased Resolution 
+### Data Denoising, Repair, Deblurring, and Increased Resolution 
 
 **Application of improved least-square generative adversarial networks for rail crack detection by AE technique** \
 *Wang Kangwei, Zhang Xin, Hao Qiushi, Wang Yan, Shen Yi* \
