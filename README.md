@@ -45,6 +45,17 @@ October 10, 2020
 Measurement [[Paper](https://doi.org/10.1016/j.measurement.2022.111206)] \
 20 April 2022
 
+**Missing data imputation framework for bridge structural health monitoring based on slim generative adversarial networks** \
+*Shuai Gao, Wenlong Zhao, Chunfeng Wan, Huachen Jiang, Youliang Ding, Songtao Xue* \
+Measurement [[Paper](https://doi.org/10.1016/j.measurement.2022.112095)] \
+21 October 2022
+
+**Deep Learning-Based Imputation Framework in Bridge Health Monitoring using Generative Adversarial Networks** \
+*Saha, Sumit* \
+Masters thesis, Indian Institute of Technology Hyderabad [[Paper](https://raiith.iith.ac.in/11523/)] \
+19 Jul 2023
+
+
 ## Data Augmentation
 
 **Efficient Processing of Distributed Acoustic Sensing Data Using a Deep Learning Approach** \
@@ -102,6 +113,13 @@ KSCE Journal of Civil Engineering [[Paper](https://doi.org/10.1016/j.autcon.2022
 Journal of Civil Structural Health Monitoring [[Paper](https://link.springer.com/article/10.1007/s13349-022-00627-8)] \
 24 September 2022
 
+**Dual generative adversarial networks combining conditional assistance and feature enhancement for imbalanced fault diagnosis** \
+*Ranran Li, Shunming Li, Kun Xu, Mengjie Zeng, Xianglian Li* \
+Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217231165223)] \
+April 24, 2023
+
+
+
 ## Data Domain Translation
 
 **Self-Supervised Structure Learning for Crack Detection Based on Cycle-Consistent Generative Adversarial Networks** \
@@ -139,10 +157,17 @@ Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymss
 Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2023.110370)] \
 23 April 2023
 
+**Damage analysis and quantification of RC beams assisted by Damage-T Generative Adversarial Network** \
+*Yanzhi Qi, Cheng Yuan, Peizhen Li, Qingzhao Kong* \
+Engineering Applications of Artificial Intelligence [[Paper](https://doi.org/10.1016/j.engappai.2022.105536)] \
+28 October 2022
+
 **Condition transfer between prestressed bridges using structural state translation for structural health monitoring** \
 *Furkan Luleci, F. Necati Catbas* \
 arXiv [[Paper](https://doi.org/10.48550/arXiv.2212.14048)] \
- 28 December 2022 
+28 December 2022 
+
+
 
 ## Data Generation for Various SHM Applications
 
@@ -205,8 +230,18 @@ Frontiers in Built Environment [[Paper](https://www.frontiersin.org/articles/10.
 
 **Autoregressive Deep Learning Models for Bridge Strain Prediction** \
 *Anastasios Panagiotis Psathas, Lazaros Iliadis, Dimitra V. Achillopoulou, Antonios Papaleonidas, Nikoleta K. Stamataki, Dimitris Bountas, Ioannis M. Dokas* \
-Engineering Applications of Neural Networks [[Paper](hhttps://link.springer.com/chapter/10.1007/978-3-031-08223-8_13)] \
+Engineering Applications of Neural Networks [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-08223-8_13)] \
 10 June 2022
+
+**Dual generative adversarial networks for automated component layout design of steel frame-brace structures** \
+*Bochao Fu, Yuqing Gao, Wei Wang* \
+arXiv [[Paper](https://doi.org/10.1016/j.autcon.2022.104661)] \
+25 November 2022
+
+**Conditional deep generative models as surrogates for spatial field solution reconstruction with quantified uncertainty in Structural Health Monitoring applications** \
+*Nicholas E. Silionis, Theodora Liangou, Konstantinos N. Anyfantis* \
+arXiv [[Paper](https://doi.org/10.48550/arXiv.2302.08329)] \
+14 Feb 2023
 
 
 ### Data Denoising, Repair, Deblurring, and Increased Resolution 
@@ -241,7 +276,15 @@ Journal of Soft Computing in Civil Engineering [[Paper](https://www.jsoftcivil.c
 Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.3048)] \
 13 July 2022
 
-### Data Anomaly, Novely Detection and Damage & Crack Identification
+**Robust multitask compressive sampling via deep generative models for crack detection in structural health monitoring** \
+*Haoyu Zhang, Stephen Wu, Yong Huang, Hui Li* \
+Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217231183663)] \
+July 17, 2023
+
+
+## Semi-Generative AI (not directly interested in content generation)
+
+### Data Anomaly, Novelty Detection, and Damage & Crack Identification
 
 **Toward data anomaly detection for automated structural health monitoring: Exploiting generative adversarial nets and autoencoders** \
 *Jianxiao Mao, Hao Wang, Billie F Spencer, Jr* \
@@ -273,10 +316,20 @@ Smart Structures and Systems [[Paper](https://doi.org/10.12989/sss.2022.29.1.053
 Frontiers in Built Environment [[Paper](https://doi.org/10.1016/j.ymssp.2022.108913)] \
 22 February 2022
 
+**Adversarially-Trained Tiny Autoencoders for Near-Sensor Continuous Structural Health Monitoring** \
+*Alessio Burrello; Giacomo Sintoni; Davide Brunelli; Luca Benini* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9869952)] \
+5 September 2022
+
 **Multi-objective variational autoencoder: an application for smart infrastructure maintenance** \
 *Ali Anaissi, Seid Miad Zandavi, Basem Suleiman, Mohamad Naji & Ali Braytee* \
 Applied Intelligence [[Paper](https://link.springer.com/article/10.1007/s10489-022-04163-2)] \
 20 September 2022
+
+**Zero-shot transfer learning for structural health monitoring using generative adversarial networks and spectral mapping** \
+*Mohammad Hesam Soleimani-Babakamali, Roksana Soleimani-Babakamali, Kourosh Nasrollahzadeh, Onur Avci, Serkan Kiranyaz, Ertugrul Taciroglu* \
+Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2023.110404)] \
+9 May 2023
 
 **Semi-Supervised Detection of Structural Damage Using Variational Autoencoder and a One-Class Support Vector Machine** \
 *Andrea Pollastro; Giusiana Testa; Antonio Bilotta; Roberto Prevete* \
