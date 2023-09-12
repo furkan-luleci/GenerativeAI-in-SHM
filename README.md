@@ -47,6 +47,11 @@ Measurement [[Paper](https://doi.org/10.1016/j.measurement.2022.111206)] \
 
 ## Data Augmentation
 
+**Efficient Processing of Distributed Acoustic Sensing Data Using a Deep Learning Approach** \
+*Lihi Shiloh, Avishay Eyal, and Raja Giryes* \
+Journal of Lightwave Technology [[Paper](https://opg.optica.org/jlt/abstract.cfm?URI=jlt-37-18-4755)] \
+May 29, 2019
+
 **Deep leaf-bootstrapping generative adversarial network for structural image data augmentation** \
 *Yuqing Gao, Boyuan Kong, Khalid M. Mosalam* \
 Computer-Aided Civil and Infrastructure Engineering [[Paper](https://doi.org/10.1111/mice.12458)] \
@@ -71,6 +76,11 @@ Computer-Aided Civil and Infrastructure Engineering [[Paper](https://doi.org/10.
 *Mohammad Hesam Soleimani-Babakamali, Roksana Soleimani-Babakamali, Rodrigo Sarlo* \
 Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217211025488)] \
 July 13, 2021
+
+**Data augmentation and its application in distributed acoustic sensing data denoising** \
+*Y X Zhao, Y Li, N Wu* \
+Geophysical Journal International [[Paper](https://doi.org/10.1093/gji/ggab345)] \
+24 August 2021
 
 **Enhancement of Multi-Class Structural Defect Recognition Using Generative Adversarial Network** \
 *Hyunkyu Shin,Yonghan Ahn, Sungho Tae, Heungbae Gil, Mihwa Song, Sanghyo Lee* \
