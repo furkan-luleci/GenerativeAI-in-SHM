@@ -144,42 +144,19 @@ Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymss
 arXiv [[Paper](https://doi.org/10.48550/arXiv.2212.14048)] \
  28 December 2022 
 
-## Data Generation for Various Other SHM Purposes
+## Data Generation for Various Other SHM Applications
 
-**Application of improved least-square generative adversarial networks for rail crack detection by AE technique** \
-*Wang Kangwei, Zhang Xin, Hao Qiushi, Wang Yan, Shen Yi* \
-Neurocomputing [[Paper](https://doi.org/10.1016/j.neucom.2018.12.057)] \
-30 December 2018
+### Data Generation (only)
 
 **Generative Model of Acceleration Data for Deep Learning-based Damage Detection for Bridges Using Generative Adversarial Network** \
 *Lee Kanghyeok, Shin Do Hyoung* \
 Journal of KIBIM [[Paper](https://doi.org/10.13161/kibim.2019.9.1.042)] \
 31 March 2019
 
-**A Generative Adversarial Network Model for SimulatingVarious Types of Human-Induced Loads** \
+**A Generative Adversarial Network Model for Simulating Various Types of Human-Induced Loads** \
 *Jiecheng Xiong, Jun Chen* \
 International Journal of Structural Stability and Dynamics [[Paper](https://doi.org/10.1142/S0219455419500925)] \
 19 April 2019
-
-**Toward data anomaly detection for automated structural health monitoring: Exploiting generative adversarial nets and autoencoders** \
-*Jianxiao Mao, Hao Wang, Billie F Spencer, Jr* \
-Structural Health Monitoring [[Paper](https://doi.org/10.1177/1475921720924601)] \
-June 7, 2020
-
-**Deep Learning–Based Enhancement of Motion Blurred UAV Concrete Crack Images** \
-*Yiqing Liu, Justin K. W. Yeoh, David K. H. Chua* \
-Journal of Computing in Civil Engineering [[Paper](https://doi.org/10.1061/(ASCE)CP.1943-5487.0000907)] \
-Jun 10, 2020
-
-**Recovering compressed images for automatic crack segmentation using generative models** \
-*Yong Huang, Haoyu Zhang, Hui Li, Stephen Wu* \
-Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2020.107061)] \
-29 June 2020
-
-**Improved Image Based Super Resolution and Concrete Crack Prediction Using Pre-Trained Deep Learning Models** \
-*Karunanithi Sathya, D. Sangavi, P. Sridharshini, M. Manobharathi, G. Jayapriya* \
-Journal of Soft Computing in Civil Engineering [[Paper](https://www.jsoftcivil.com/article_110942_14151.html)] \
-24 July 2020
 
 **An application of generative adversarial networks in structural health monitoring** \
 *G.Tsialiamanis, E.Chatzi, N.Dervilis, D.J.Wagg, K.Worden* \
@@ -221,6 +198,66 @@ Vehicle System Dynamics [[Paper](https://doi.org/10.1080/00423114.2021.1999480)]
 IEEE [[Paper](https://doi.org/10.1111/mice.12799)] \
 22 December 2021
 
+**Generative Adversarial Networks for Data Generation in Structural Health Monitoring** \
+*Furkan Luleci, F. Necati Catbas, Onur Avci* \
+Frontiers in Built Environment [[Paper](https://www.frontiersin.org/articles/10.3389/fbuil.2022.816644)] \
+11 February 2022
+
+**Autoregressive Deep Learning Models for Bridge Strain Prediction** \
+*Anastasios Panagiotis Psathas, Lazaros Iliadis, Dimitra V. Achillopoulou, Antonios Papaleonidas, Nikoleta K. Stamataki, Dimitris Bountas, Ioannis M. Dokas* \
+Engineering Applications of Neural Networks [[Paper](hhttps://link.springer.com/chapter/10.1007/978-3-031-08223-8_13)] \
+10 June 2022
+
+
+### Data Denoising, Repair, Deblurring and Increased Resolution 
+
+**Application of improved least-square generative adversarial networks for rail crack detection by AE technique** \
+*Wang Kangwei, Zhang Xin, Hao Qiushi, Wang Yan, Shen Yi* \
+Neurocomputing [[Paper](https://doi.org/10.1016/j.neucom.2018.12.057)] \
+30 December 2018
+
+**A two-stage data cleansing method for bridge global positioning system monitoring data based on bi-direction long and short term memory anomaly identification and conditional generative adversarial networks data repair** \
+*Kang Yang, Youliang Ding, Huachen Jiang, Hanwei Zhao, Gan Luo* \
+Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.2993)] \
+11 May 2022
+
+**Deep Learning–Based Enhancement of Motion Blurred UAV Concrete Crack Images** \
+*Yiqing Liu, Justin K. W. Yeoh, David K. H. Chua* \
+Journal of Computing in Civil Engineering [[Paper](https://doi.org/10.1061/(ASCE)CP.1943-5487.0000907)] \
+Jun 10, 2020
+
+**Recovering compressed images for automatic crack segmentation using generative models** \
+*Yong Huang, Haoyu Zhang, Hui Li, Stephen Wu* \
+Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2020.107061)] \
+29 June 2020
+
+**Improved Image Based Super Resolution and Concrete Crack Prediction Using Pre-Trained Deep Learning Models** \
+*Karunanithi Sathya, D. Sangavi, P. Sridharshini, M. Manobharathi, G. Jayapriya* \
+Journal of Soft Computing in Civil Engineering [[Paper](https://www.jsoftcivil.com/article_110942_14151.html)] \
+24 July 2020
+
+**Vision-based displacement measurement enhanced by super-resolution using generative adversarial networks** \
+*Chujin Sun, Donglian Gu, Yi Zhang, Xinzheng Lu* \
+Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.3048)] \
+13 July 2022
+
+### Data Anomaly, Novely Detection and Damage & Crack Identification
+
+**Toward data anomaly detection for automated structural health monitoring: Exploiting generative adversarial nets and autoencoders** \
+*Jianxiao Mao, Hao Wang, Billie F Spencer, Jr* \
+Structural Health Monitoring [[Paper](https://doi.org/10.1177/1475921720924601)] \
+June 7, 2020
+
+**Infrastructure degradation and post-disaster damage detection using anomaly detecting generative adversarial networks** \
+*S. M. Tilon, F. Nex, D. Duarte, N. Kerle, and G. Vosselman* \
+ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci. [[Paper](https://isprs-annals.copernicus.org/articles/V-2-2020/573/2020/)] \
+03 Aug 2020
+
+**Post-Disaster Building Damage Detection from Earth Observation Imagery Using Unsupervised and Transferable Anomaly Detecting Generative Adversarial Networks** \
+*Sofia Tilon,Francesco Nex,Norman Kerle, George Vosselman* \
+Remote Sensing [[Paper](https://www.mdpi.com/2072-4292/12/24/4193)] \
+21 December 2020
+
 **Toward a general unsupervised novelty detection framework in structural health monitoring** \
 *Mohammad Hesam Soleimani-Babakamali, Reza Sepasdar, Kourosh Nasrollahzadeh, Ismini Lourentzou, Rodrigo Sarlo* \
 Computer-Aided Civil and Infrastructure Engineering [[Paper](https://doi.org/10.1111/mice.12812)] \
@@ -231,30 +268,10 @@ Computer-Aided Civil and Infrastructure Engineering [[Paper](https://doi.org/10.
 Smart Structures and Systems [[Paper](https://doi.org/10.12989/sss.2022.29.1.053)] \
 29 January 2022
 
-**Generative Adversarial Networks for Data Generation in Structural Health Monitoring** \
-*Furkan Luleci, F. Necati Catbas, Onur Avci* \
-Frontiers in Built Environment [[Paper](https://www.frontiersin.org/articles/10.3389/fbuil.2022.816644)] \
-11 February 2022
-
 **A system reliability approach to real-time unsupervised structural health monitoring without prior information** \
 *Mohammad Hesam Soleimani-Babakamali, Reza Sepasdar, Kourosh Nasrollahzadeh, Rodrigo Sarlo* \
 Frontiers in Built Environment [[Paper](https://doi.org/10.1016/j.ymssp.2022.108913)] \
 22 February 2022
-
-**A two-stage data cleansing method for bridge global positioning system monitoring data based on bi-direction long and short term memory anomaly identification and conditional generative adversarial networks data repair** \
-*Kang Yang, Youliang Ding, Huachen Jiang, Hanwei Zhao, Gan Luo* \
-Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.2993)] \
-11 May 2022
-
-**Autoregressive Deep Learning Models for Bridge Strain Prediction** \
-*Anastasios Panagiotis Psathas, Lazaros Iliadis, Dimitra V. Achillopoulou, Antonios Papaleonidas, Nikoleta K. Stamataki, Dimitris Bountas, Ioannis M. Dokas* \
-Engineering Applications of Neural Networks [[Paper](hhttps://link.springer.com/chapter/10.1007/978-3-031-08223-8_13)] \
-10 June 2022
-
-**Vision-based displacement measurement enhanced by super-resolution using generative adversarial networks** \
-*Chujin Sun, Donglian Gu, Yi Zhang, Xinzheng Lu* \
-Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.3048)] \
-13 July 2022
 
 **Multi-objective variational autoencoder: an application for smart infrastructure maintenance** \
 *Ali Anaissi, Seid Miad Zandavi, Basem Suleiman, Mohamad Naji & Ali Braytee* \
@@ -267,9 +284,6 @@ IEEE [[Paper](https://ieeexplore.ieee.org/document/10171358)] \
 03 July 2023
 
 
-
-
-## Semi-Generative AI: The Generative AI models were not directly used here for content generation but to assist SHM applications the damage identification, anomaly detection, data denoising and repair, e This is combination of generative AI with other AI or rule-based approaches.
 
 
 
