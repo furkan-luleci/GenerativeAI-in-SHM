@@ -158,6 +158,11 @@ IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10058512)] \
 Journal of Civil Structural Health Monitoring [[Paper](https://link.springer.com/article/10.1007/s13349-023-00705-5)] \
 11 May 2023
 
+**Data Augmentation for Deep-Learning-Based Multiclass Structural Damage Detection Using Limited Information** \
+*Kyle Dunphy, Mohammad Navid Fekri,Katarina Grolinger, Ayan Sadhu* \
+Sensors [[Paper](https://www.mdpi.com/1424-8220/22/16/6193)] \
+18 August 2022
+
 
 ## Data Domain Translation
 
@@ -210,7 +215,7 @@ arXiv [[Paper](https://doi.org/10.48550/arXiv.2212.14048)] \
 
 ## Data Generation for Various SHM Applications
 
-### Data Generation (focused on direct-content generation and generative-ability, e.g., data feature capturing, distrubition construction, etc. )
+### Data Generation (focused on direct-content generation and model generative-ability, e.g., data feature capturing, distrubition construction, etc.)
 
 **Generative Model of Acceleration Data for Deep Learning-based Damage Detection for Bridges Using Generative Adversarial Network** \
 *Lee Kanghyeok, Shin Do Hyoung* \
@@ -297,6 +302,11 @@ arXiv [[Paper](https://doi.org/10.48550/arXiv.2302.08329)] \
 Journal of Building Engineering [[Paper](https://doi.org/10.1016/j.jobe.2023.106563)] \
 15 April 2023
 
+**Acoustic Sensor Placement Optimization for Compressor Based on Adversarial Transfer Learning and Vibro-Acoustic Simulation** \
+*Di Song, Junxian Shen,Tianchi Ma, Feiyun Xu* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10122886)] \
+10 May 2023
+
 **Implicit parametric modal expansion method for single-layer reticulated shells based on generative adversarial network** \
 *Jindong Zhang, Xiaonong Guo, Shaohan Zong* \
 Structures [[Paper](https://doi.org/10.1016/j.istruc.2023.05.151)] \
@@ -307,17 +317,14 @@ Structures [[Paper](https://doi.org/10.1016/j.istruc.2023.05.151)] \
 Proceedings Volume 12536, Thermosense: Thermal Infrared Applications XLV [[Paper](https://doi.org/10.1117/12.2663951)] \
 12 June 2023
 
+
+
 ### Data Denoising, Repair, Deblurring, and Increased Resolution 
 
 **Application of improved least-square generative adversarial networks for rail crack detection by AE technique** \
 *Wang Kangwei, Zhang Xin, Hao Qiushi, Wang Yan, Shen Yi* \
 Neurocomputing [[Paper](https://doi.org/10.1016/j.neucom.2018.12.057)] \
 30 December 2018
-
-**A two-stage data cleansing method for bridge global positioning system monitoring data based on bi-direction long and short term memory anomaly identification and conditional generative adversarial networks data repair** \
-*Kang Yang, Youliang Ding, Huachen Jiang, Hanwei Zhao, Gan Luo* \
-Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.2993)] \
-11 May 2022
 
 **Deep Learning–Based Enhancement of Motion Blurred UAV Concrete Crack Images** \
 *Yiqing Liu, Justin K. W. Yeoh, David K. H. Chua* \
@@ -328,6 +335,21 @@ Jun 10, 2020
 *Yong Huang, Haoyu Zhang, Hui Li, Stephen Wu* \
 Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2020.107061)] \
 29 June 2020
+
+**Improved Image Based Super Resolution and Concrete Crack Prediction Using Pre-Trained Deep Learning Models** \
+*Karunanithi Sathya, D. Sangavi, P. Sridharshini, M. Manobharathi, G. Jayapriya* \
+Journal of Soft Computing in Civil Engineering [[Paper](https://www.jsoftcivil.com/article_110942_14151.html)] \
+24 July 2020
+
+**A two-stage data cleansing method for bridge global positioning system monitoring data based on bi-direction long and short term memory anomaly identification and conditional generative adversarial networks data repair** \
+*Kang Yang, Youliang Ding, Huachen Jiang, Hanwei Zhao, Gan Luo* \
+Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.2993)] \
+11 May 2022
+
+**Learning Structure for Concrete Crack Detection Using Robust Super-Resolution with Generative Adversarial Network** \
+*Jin Kim, Seungbo Shim, Seok-Jun Kang, Gye-Chun Cho* \
+Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/8850290/)] \
+04 Apr 2023
 
 **Structural floor acceleration denoising method using generative adversarial network** \
 *Junkai Shen, Lingxin Zhang, Koichi Kusunoki, Trevor Zhiqing Yeow* \
@@ -343,12 +365,6 @@ Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.30
 *Haoyu Zhang, Stephen Wu, Yong Huang, Hui Li* \
 Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217231183663)] \
 July 17, 2023
-
-**Improved Image Based Super Resolution and Concrete Crack Prediction Using Pre-Trained Deep Learning Models** \
-*Karunanithi Sathya, D. Sangavi, P. Sridharshini, M. Manobharathi, G. Jayapriya* \
-Journal of Soft Computing in Civil Engineering [[Paper](https://www.jsoftcivil.com/article_110942_14151.html)] \
-24 July 2020
-
 
 ### Leveraging Generative AI for Anomaly/Novelty/outlier Detection, Damage Diagnosis & Prognosis, and Model Updating
 
@@ -457,4 +473,8 @@ arXiv [[Paper](https://doi.org/10.48550/arXiv.2308.05350)] \
 Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/9278389/)] \
 07 Feb 2023
 
+**Deep Representation Clustering of Multi-Type Damage Features Based on Unsupervised Generative Adversarial Network** \
+*Feng-Liang Zhang, Xiao Li, Jun Lei, Wei Xiang* \
+SSRN [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4518296)] \
+22 Jul 2023
 
