@@ -50,6 +50,16 @@ Measurement [[Paper](https://doi.org/10.1016/j.measurement.2022.111206)] \
 Measurement [[Paper](https://doi.org/10.1016/j.measurement.2022.112095)] \
 21 October 2022
 
+**Structural dynamic response reconstruction using self-attention enhanced generative adversarial networks** \
+*Gao Fan, Zhengyan He, Jun Li* \
+Engineering Structures [[Paper](https://doi.org/10.1016/j.engstruct.2022.115334)] \
+1 December 2022
+
+**Multi-channel response reconstruction using transformer based generative adversarial network** \
+*Wenhao Zheng, Jun Li, Qilin Li, Hong Hao* \
+Earthquake Engineering and Structural Dynamics [[Paper](https://doi.org/10.1002/eqe.3960)] \
+5 Jul 2023
+
 **Deep Learning-Based Imputation Framework in Bridge Health Monitoring using Generative Adversarial Networks** \
 *Saha, Sumit* \
 Masters thesis, Indian Institute of Technology Hyderabad [[Paper](https://raiith.iith.ac.in/11523/)] \
@@ -118,6 +128,11 @@ Journal of Civil Structural Health Monitoring [[Paper](https://link.springer.com
 Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217231165223)] \
 April 24, 2023
 
+**A Novel Data Augmentation Method for Improved Visual Crack Detection Using Generative Adversarial Networks** \
+*Efstathios Branikas; Paul Murray; Graeme West* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10058512)] \
+03 March 2023
+
 
 
 ## Data Domain Translation
@@ -171,7 +186,7 @@ arXiv [[Paper](https://doi.org/10.48550/arXiv.2212.14048)] \
 
 ## Data Generation for Various SHM Applications
 
-### Data Generation (only interested in direct-content generation, e.g., feature capturing, distrubition construction)
+### Data Generation (focused on direct-content generation and generative-ability, e.g., data feature capturing, distrubition construction, etc. )
 
 **Generative Model of Acceleration Data for Deep Learning-based Damage Detection for Bridges Using Generative Adversarial Network** \
 *Lee Kanghyeok, Shin Do Hyoung* \
@@ -228,6 +243,11 @@ IEEE [[Paper](https://doi.org/10.1111/mice.12799)] \
 Frontiers in Built Environment [[Paper](https://www.frontiersin.org/articles/10.3389/fbuil.2022.816644)] \
 11 February 2022
 
+**Diagnostic-Quality Guided Wave Signals Synthesized Using Generative Adversarial Neural Networks** \
+*Mateusz Heesch, Michał Dziendzikowski, Krzysztof Mendrok, Ziemowit Dworakowski* \
+Sensors [[Paper](https://www.mdpi.com/1424-8220/22/10/3848)] \
+19 May 2022
+
 **Autoregressive Deep Learning Models for Bridge Strain Prediction** \
 *Anastasios Panagiotis Psathas, Lazaros Iliadis, Dimitra V. Achillopoulou, Antonios Papaleonidas, Nikoleta K. Stamataki, Dimitris Bountas, Ioannis M. Dokas* \
 Engineering Applications of Neural Networks [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-08223-8_13)] \
@@ -238,10 +258,31 @@ Engineering Applications of Neural Networks [[Paper](https://link.springer.com/c
 arXiv [[Paper](https://doi.org/10.1016/j.autcon.2022.104661)] \
 25 November 2022
 
+**In situ health monitoring of multiscale structures and its instantaneous verification using mechanoluminescence and dual machine learning** \
+*Seong Yeon Ahn, Suman Timilsina, Ho Geun Shin, Jeong Heon Lee, Seong-Hoon Kim, Kee-Sun Sohn, Yong Nam Kwon 5, Kwang Ho Lee, Ji Sik Kim* \
+iScience [[Paper](https://doi.org/10.1016/j.isci.2022.105758)] \
+January 20, 2023
+
 **Conditional deep generative models as surrogates for spatial field solution reconstruction with quantified uncertainty in Structural Health Monitoring applications** \
 *Nicholas E. Silionis, Theodora Liangou, Konstantinos N. Anyfantis* \
 arXiv [[Paper](https://doi.org/10.48550/arXiv.2302.08329)] \
 14 Feb 2023
+
+**A fast-response-generation method for single-layer reticulated shells based on implicit parameter model of generative adversarial networks** \
+*Xiaonong Guo, Jindong Zhang, Shaohan Zong, Shaojun Zhu* \
+Journal of Building Engineering [[Paper](https://doi.org/10.1016/j.jobe.2023.106563)] \
+15 April 2023
+
+**Implicit parametric modal expansion method for single-layer reticulated shells based on generative adversarial network** \
+*Jindong Zhang, Xiaonong Guo, Shaohan Zong* \
+Structures [[Paper](https://doi.org/10.1016/j.istruc.2023.05.151)] \
+11 June 2023
+
+**Generative adversarial networks for real-time realistic physics simulations** \
+*Mark Harlow, Matthew Martinez, Xiaoyan Han, Stoian Borissov, Jason Hill* \
+Proceedings Volume 12536, Thermosense: Thermal Infrared Applications XLV [[Paper](https://doi.org/10.1117/12.2663951)] \
+12 June 2023
+
 
 
 ### Data Denoising, Repair, Deblurring, and Increased Resolution 
@@ -282,7 +323,7 @@ Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217231183663)
 July 17, 2023
 
 
-### Leveraging Generative AI for Anomaly/Novelty Detection, and Damage/Crack Identification
+### Leveraging Generative AI for Anomaly/Novelty Detection, and Diagnosis & Prognosis
 
 **Toward data anomaly detection for automated structural health monitoring: Exploiting generative adversarial nets and autoencoders** \
 *Jianxiao Mao, Hao Wang, Billie F Spencer, Jr* \
@@ -309,10 +350,20 @@ Computer-Aided Civil and Infrastructure Engineering [[Paper](https://doi.org/10.
 Smart Structures and Systems [[Paper](https://doi.org/10.12989/sss.2022.29.1.053)] \
 29 January 2022
 
+**On an Application of Generative Adversarial Networks on Remaining Lifetime Estimation** \
+*G. Tsialiamanis, D. Wagg, N. Dervilis, K. Worden* \
+arXiv [[Paper](https://arxiv.org/abs/2208.08666)] \
+18 Aug 2022
+
 **A system reliability approach to real-time unsupervised structural health monitoring without prior information** \
 *Mohammad Hesam Soleimani-Babakamali, Reza Sepasdar, Kourosh Nasrollahzadeh, Rodrigo Sarlo* \
 Frontiers in Built Environment [[Paper](https://doi.org/10.1016/j.ymssp.2022.108913)] \
 22 February 2022
+
+**Multiclass damage detection in concrete structures using a transfer learning-based generative adversarial networks** \
+*Kyle Dunphy, Ayan Sadhu, Jinfei Wang* \
+Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.3079)] \
+19 August 2022
 
 **Adversarially-Trained Tiny Autoencoders for Near-Sensor Continuous Structural Health Monitoring** \
 *Alessio Burrello; Giacomo Sintoni; Davide Brunelli; Luca Benini* \
