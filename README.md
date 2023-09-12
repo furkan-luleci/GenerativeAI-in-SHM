@@ -171,7 +171,7 @@ arXiv [[Paper](https://doi.org/10.48550/arXiv.2212.14048)] \
 
 ## Data Generation for Various SHM Applications
 
-### Data Generation (Only)
+### Data Generation (only interested in direct-content generation, e.g., feature capturing, distrubition construction)
 
 **Generative Model of Acceleration Data for Deep Learning-based Damage Detection for Bridges Using Generative Adversarial Network** \
 *Lee Kanghyeok, Shin Do Hyoung* \
@@ -282,9 +282,7 @@ Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217231183663)
 July 17, 2023
 
 
-## Semi-Generative AI (not directly interested in content generation)
-
-### Data Anomaly, Novelty Detection, and Damage & Crack Identification
+### Leveraging Generative AI for Anomaly/Novelty Detection, and Damage/Crack Identification
 
 **Toward data anomaly detection for automated structural health monitoring: Exploiting generative adversarial nets and autoencoders** \
 *Jianxiao Mao, Hao Wang, Billie F Spencer, Jr* \
@@ -326,6 +324,11 @@ IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9869952)] \
 Applied Intelligence [[Paper](https://link.springer.com/article/10.1007/s10489-022-04163-2)] \
 20 September 2022
 
+**Unsupervised structural damage detection based on an improved generative adversarial network and cloud model** \
+*Yongpeng Luo, Xu Guo, Lin-Kun Wang, Jin-Ling Zheng, Jing-Liang Liu, Fei-Yu Liao* \
+Journal of Low Frequency Noise, Vibration and Active Control [[Paper](https://journals.sagepub.com/doi/full/10.1177/14613484221150804)] \
+January 12, 2023
+
 **Zero-shot transfer learning for structural health monitoring using generative adversarial networks and spectral mapping** \
 *Mohammad Hesam Soleimani-Babakamali, Roksana Soleimani-Babakamali, Kourosh Nasrollahzadeh, Onur Avci, Serkan Kiranyaz, Ertugrul Taciroglu* \
 Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2023.110404)] \
@@ -336,8 +339,10 @@ Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymss
 IEEE [[Paper](https://ieeexplore.ieee.org/document/10171358)] \
 03 July 2023
 
-
-
+**Deep generative models for unsupervised delamination detection using guided waves** \
+*Mahindra Rautela, Amin Maghareh, Shirley Dyke, S. Gopalakrishnan* \
+arXiv [[Paper](https://doi.org/10.48550/arXiv.2308.05350)] \
+10 August 2023
 
 
 
