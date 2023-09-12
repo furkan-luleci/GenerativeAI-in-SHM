@@ -2,10 +2,6 @@
 
 
 ## Survey
-**Generative Adversarial Networks in the built environment: A comprehensive review of the application of GANs across data types and scales** \
-*Abraham Noah Wu, Rudi Stouffs, Filip Biljecki* \
-Building and Environment [[Paper](https://doi.org/10.1016/j.buildenv.2022.109477)] \
-17 August 2022
 
 **A literature review: Generative adversarial networks for civil structural health monitoring** \
 *Furkan Luleci, F. Necati Catbas, Onur Avci* \
@@ -50,6 +46,11 @@ Measurement [[Paper](https://doi.org/10.1016/j.measurement.2022.111206)] \
 20 April 2022
 
 ## Data Augmentation
+
+**Deep leaf-bootstrapping generative adversarial network for structural image data augmentation** \
+*Yuqing Gao, Boyuan Kong, Khalid M. Mosalam* \
+Computer-Aided Civil and Infrastructure Engineering [[Paper](https://doi.org/10.1111/mice.12458)] \
+18 July 2019
 
 **Unsupervised domain adaptation with self-attention for post-disaster building damage detection** \
 *Yundong Li, Chen Lin, Hongguang Li, Wei Hu, Han Dong, Yi Liu* \
