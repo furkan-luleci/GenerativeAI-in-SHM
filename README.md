@@ -76,6 +76,16 @@ Earthquake Engineering and Structural Dynamics [[Paper](https://doi.org/10.1002/
 Masters thesis, Indian Institute of Technology Hyderabad [[Paper](https://raiith.iith.ac.in/11523/)] \
 19 Jul 2023
 
+
+
+
+
+
+
+
+
+
+
 ## Data Augmentation
 
 **Efficient Processing of Distributed Acoustic Sensing Data Using a Deep Learning Approach** \
@@ -117,6 +127,11 @@ Geophysical Journal International [[Paper](https://doi.org/10.1093/gji/ggab345)]
 *Hyunkyu Shin,Yonghan Ahn, Sungho Tae, Heungbae Gil, Mihwa Song, Sanghyo Lee* \
 Sustainability [[Paper](https://www.mdpi.com/2071-1050/13/22/12682)] \
 16 November 2021
+
+**Fatigue Damage Diagnostics of Composites Using Data Fusion and Data Augmentation With Deep Neural Networks ** \
+*Shweta Dabetwar, Stephen Ekwaro-Osire, João Paulo Dias* \
+ASME J Nondestructive Evaluation [[Paper](https://doi.org/10.1115/1.4051947)] \
+23 August 2021
 
 **Crack Detection Based on Generative Adversarial Networks and Deep Learning** \
 *Gongfa Chen, Shuai Teng, Mansheng Lin, Xiaomei Yang, Xiaoli Sun* \
@@ -167,6 +182,15 @@ Journal of Civil Structural Health Monitoring [[Paper](https://link.springer.com
 *Xiaoyou Wang, Yao Du, Xiaoqing Zhou, Yong Xia* \
 Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/2430011/)] \
 22 July 2023
+
+
+
+
+
+
+
+
+
 
 ## Data Domain Translation
 
@@ -441,7 +465,7 @@ July 17, 2023
 
 
 
-### Leveraging Generative AI for Anomaly/Novelty/outlier Detection, Damage Diagnosis & Prognosis, and Model Updating (not directly focused on content generation)
+### Leveraging Generative AI for Anomaly/Novelty/outlier Detection, Damage Diagnosis & Prognosis, and Physics-based Modeling (not directly focused on content generation)
 
 **Toward data anomaly detection for automated structural health monitoring: Exploiting generative adversarial nets and autoencoders** \
 *Jianxiao Mao, Hao Wang, Billie F Spencer, Jr* \
@@ -493,6 +517,11 @@ Frontiers in Built Environment [[Paper](https://doi.org/10.1016/j.ymssp.2022.108
 Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217211073301)] \
 April 4, 2022
 
+**Variational AutoEncoder (VAE) Boosted Parametric Reduced Order Modelling (pROM)** \
+*Konstantinoscc Vlachas, Thomas Simpson, Anthony Garland, Carianne Martinez, Dane Quinn, Eleni Chatzi,* \
+6th Workshop on Nonlinear System Identification Benchmarks [[Paper](https://doi.org/10.3929/ethz-b-000601436)] \
+26 April 2022
+
 **Unsupervised deep learning method for bridge condition assessment based on intra-and inter-class probabilistic correlations of quasi-static responses** \
 *Yang Xu, Yadi Tian, and Hui Li* \
 Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217221103016)] \
@@ -532,6 +561,11 @@ Applied Intelligence [[Paper](https://link.springer.com/article/10.1007/s10489-0
 *Fangzheng Lin, Jiesheng Yang, Jiangpeng Shu, Raimar J. Scherer* \
 arXiv [[Paper](https://arxiv.org/abs/2209.13283)] \
 27 Sep 2022
+
+**DEGAN: Time Series Anomaly Detection using Generative Adversarial Network Discriminators and Density Estimation** \
+*Yueyan Gu, Farrokh Jazizadeh* \
+arXiv [[Paper](https://arxiv.org/abs/2210.02449)] \
+5 Oct 2022
 
 **Unsupervised structural damage detection based on an improved generative adversarial network and cloud model** \
 *Yongpeng Luo, Xu Guo, Lin-Kun Wang, Jin-Ling Zheng, Jing-Liang Liu, Fei-Yu Liao* \
@@ -577,7 +611,6 @@ SSRN [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4518296)] \
 *Kareem A. Eltouny, Xiao Liang* \
 Earthquake Engineering & Structural Dynamics [[Paper](https://doi.org/10.1002/eqe.3892)] \
 24 April 2023
-
 
 
 
