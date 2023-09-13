@@ -178,12 +178,15 @@ IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10058512)] \
 Journal of Civil Structural Health Monitoring [[Paper](https://link.springer.com/article/10.1007/s13349-023-00705-5)] \
 11 May 2023
 
+**Subdomain-Alignment Data Augmentation for Pipeline Fault Diagnosis: An Adversarial Self-Attention Network** \
+*Chuang Wang, Zidong Wang, Lifeng Ma, Hongli Dong, Weiguo Sheng* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10123949)] \
+12 May 2023
+
 **Data Anomaly Detection through Semisupervised Learning Aided by Customised Data Augmentation Techniques** \
 *Xiaoyou Wang, Yao Du, Xiaoqing Zhou, Yong Xia* \
 Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/2430011/)] \
 22 July 2023
-
-
 
 
 
@@ -351,6 +354,11 @@ January 20, 2023
 arXiv [[Paper](https://doi.org/10.48550/arXiv.2302.08329)] \
 14 Feb 2023
 
+**Crack image generation algorithm based on deep convolutional generative adversarial network** \
+*DingJun Zhang, MingChao Liao, XiXiang Wang, LaLao Gao* \
+Second International Conference on Green Communication, Network, and Internet of Things [[Paper](https://doi.org/10.1117/12.2667214)] \
+8 March 2023
+
 **A fast-response-generation method for single-layer reticulated shells based on implicit parameter model of generative adversarial networks** \
 *Xiaonong Guo, Jindong Zhang, Shaohan Zong, Shaojun Zhu* \
 Journal of Building Engineering [[Paper](https://doi.org/10.1016/j.jobe.2023.106563)] \
@@ -385,7 +393,6 @@ Sensors [[Paper](https://doi.org/10.3390/s23156750)] \
 *Zhymir Thompson, Austin R.J. Downey, Jason D. Bakos, Jie Wei, Jacob Dodson* \
 Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2023.110725)] \
 9 September 2023
-
 
 
 
@@ -451,6 +458,10 @@ Soil Dynamics and Earthquake Engineering [[Paper](https://doi.org/10.1016/j.soil
 Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217231183663)] \
 July 17, 2023
 
+**Anomaly detection for wind turbine pitch bearings via autoencoder enhanced nonlinear autoregressive model** \
+*Chao Zhang, Long Zhang* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10058286)] \
+13 March 2023
 
 
 
@@ -464,8 +475,7 @@ July 17, 2023
 
 
 
-
-### Leveraging Generative AI for Anomaly/Novelty/outlier Detection, Damage Diagnosis & Prognosis, and Physics-based Modeling (not directly focused on content generation)
+### Leveraging Generative AI for Anomaly/Novelty/outlier Detection, Damage Diagnosis/Prognosis, and Physics-based Modeling (the studies here not directly focused on content generation)
 
 **Toward data anomaly detection for automated structural health monitoring: Exploiting generative adversarial nets and autoencoders** \
 *Jianxiao Mao, Hao Wang, Billie F Spencer, Jr* \
@@ -517,6 +527,11 @@ Frontiers in Built Environment [[Paper](https://doi.org/10.1016/j.ymssp.2022.108
 Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217211073301)] \
 April 4, 2022
 
+**A novel vision-based method for loosening detection of marked T-junction pipe fittings integrating GAN-based segmentation and SVM-based classification algorithms** \
+*Xinjian Deng, Jianhua Liu, Hao Gong, Jiayu Huang* \
+Journal of Intelligent Manufacturing  [[Paper](https://link.springer.com/article/10.1007/s10845-022-01948-7)] \
+22 April 2022
+
 **Variational AutoEncoder (VAE) Boosted Parametric Reduced Order Modelling (pROM)** \
 *Konstantinoscc Vlachas, Thomas Simpson, Anthony Garland, Carianne Martinez, Dane Quinn, Eleni Chatzi,* \
 6th Workshop on Nonlinear System Identification Benchmarks [[Paper](https://doi.org/10.3929/ethz-b-000601436)] \
@@ -526,6 +541,11 @@ April 4, 2022
 *Yang Xu, Yadi Tian, and Hui Li* \
 Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217221103016)] \
 May 21, 2022
+
+**RCNN-GAN: An Enhanced Deep Learning Approach Towards Detection of Road Cracks** \
+*Shadrack Fred Mahenge, Stephen Wambura, Licheng Jiao* \
+ICCDA 2022: 2022 The 6th International Conference on Compute and Data Analysis [[Paper](https://doi.org/10.1145/3523089.3523104)] \
+23 May 2022
 
 **Generative adversarial networks with fuzzy clustering on damage detection of rc beams using piezoceramic sensing signals** \
 *YUAN Cheng, XIONG Qing-song, QIN Xiao-ming, XIONG Hai-bei, KONG Qing-zhao* \
@@ -562,40 +582,55 @@ Applied Intelligence [[Paper](https://link.springer.com/article/10.1007/s10489-0
 arXiv [[Paper](https://arxiv.org/abs/2209.13283)] \
 27 Sep 2022
 
+**Modern Crack Detection for Bridge Infrastructure Maintenance Using Machine Learning** \
+*Hafiz Suliman Munawar, Ahmed W. A. Hammad, S. Travis Waller & Md Rafiqul Islam* \
+Human-Centric Intelligent Systems [[Paper](https://link.springer.com/article/10.1007/s44230-022-00009-9)] \
+28 September 2022
+
 **DEGAN: Time Series Anomaly Detection using Generative Adversarial Network Discriminators and Density Estimation** \
 *Yueyan Gu, Farrokh Jazizadeh* \
 arXiv [[Paper](https://arxiv.org/abs/2210.02449)] \
 5 Oct 2022
+
+**A GAN-based fault detection for dynamic process with deconvolutional networks** \
+*Dapeng Zhang, Zhiwei Gao* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9976142)] \
+15 December 2022
 
 **Unsupervised structural damage detection based on an improved generative adversarial network and cloud model** \
 *Yongpeng Luo, Xu Guo, Lin-Kun Wang, Jin-Ling Zheng, Jing-Liang Liu, Fei-Yu Liao* \
 Journal of Low Frequency Noise, Vibration and Active Control [[Paper](https://journals.sagepub.com/doi/full/10.1177/14613484221150804)] \
 January 12, 2023
 
+**Structural Nonlinear Model Updating Based on an Improved Generative Adversarial Network** \
+*Zi-Qing Yuan, Yu Xin, Zuo-Cai Wang, Ya-Jie Ding, Jun Wang, Dong-Hui Wang* \
+Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/9278389/)] \
+07 Feb 2023
+
+**A Semi-Supervised Learning Approach for Pixel-Level Pavement Anomaly Detection** \
+*Ruiqi Ren, Peixin Shi, Pengjiao Jia, Xiangyang Xu* \
+IEEE [[Paper](https://ieeexplore.ieee.org/document/10106612)] \
+21 April 2023
+
+**Uncertainty-aware structural damage warning system using deep variational composite neural networks** \
+*Kareem A. Eltouny, Xiao Liang* \
+Earthquake Engineering & Structural Dynamics [[Paper](https://doi.org/10.1002/eqe.3892)] \
+24 April 2023
+
 **Zero-shot transfer learning for structural health monitoring using generative adversarial networks and spectral mapping** \
 *Mohammad Hesam Soleimani-Babakamali, Roksana Soleimani-Babakamali, Kourosh Nasrollahzadeh, Onur Avci, Serkan Kiranyaz, Ertugrul Taciroglu* \
 Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2023.110404)] \
 9 May 2023
 
+**Microstructural image based convolutional neural networks for efficient prediction of full-field stress maps in short fiber polymer composites** \
+*S. Gupta, T. Mukhopadhyay, V. Kushvaha* \
+Defence Technology [[Paper](https://doi.org/10.1016/j.dt.2022.09.008)] \
+23 June 2023
+
 **Semi-Supervised Detection of Structural Damage Using Variational Autoencoder and a One-Class Support Vector Machine** \
 *Andrea Pollastro; Giusiana Testa; Antonio Bilotta; Roberto Prevete* \
 IEEE [[Paper](https://ieeexplore.ieee.org/document/10171358)] \
 03 July 2023
-
-**Deep generative models for unsupervised delamination detection using guided waves** \
-*Mahindra Rautela, Amin Maghareh, Shirley Dyke, S. Gopalakrishnan* \
-arXiv [[Paper](https://doi.org/10.48550/arXiv.2308.05350)] \
-10 August 2023
-
-**Deep generative models for unsupervised delamination detection using guided waves** \
-*Mahindra Rautela, Amin Maghareh, Shirley Dyke, S. Gopalakrishnan* \
-arXiv [[Paper](https://doi.org/10.48550/arXiv.2308.05350)] \
-10 August 2023
-
-**Structural Nonlinear Model Updating Based on an Improved Generative Adversarial Network** \
-*Zi-Qing Yuan, Yu Xin, Zuo-Cai Wang, Ya-Jie Ding, Jun Wang, Dong-Hui Wang* \
-Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/9278389/)] \
-07 Feb 2023
 
 **Concrete Crack Detection Using Deep Convolutional Generative Adversarial Network** \
 *Biswajit Padhi, Motahar Reza, Md. Salman Shams & Arcot Navya Sai* \
@@ -607,12 +642,9 @@ Advanced Computing [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-
 SSRN [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4518296)] \
 22 Jul 2023
 
-**Uncertainty-aware structural damage warning system using deep variational composite neural networks** \
-*Kareem A. Eltouny, Xiao Liang* \
-Earthquake Engineering & Structural Dynamics [[Paper](https://doi.org/10.1002/eqe.3892)] \
-24 April 2023
-
-
-
+**Deep generative models for unsupervised delamination detection using guided waves** \
+*Mahindra Rautela, Amin Maghareh, Shirley Dyke, S. Gopalakrishnan* \
+arXiv [[Paper](https://doi.org/10.48550/arXiv.2308.05350)] \
+10 August 2023
 
 
