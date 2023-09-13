@@ -220,9 +220,27 @@ Engineering Applications of Artificial Intelligence [[Paper](https://doi.org/10.
 arXiv [[Paper](https://doi.org/10.48550/arXiv.2212.14048)] \
 28 December 2022 
 
+**Establishment and evaluation of conditional GAN-based image dataset for semantic segmentation of structural cracks** \
+*Furkan Luleci, F. Necati Catbas* \
+Engineering Structures [[Paper](https://doi.org/10.1016/j.engstruct.2023.116058)] \
+31 March 2023
+
+**Condition transfer between prestressed bridges using structural state translation for structural health monitoring** \
+*Furkan Luleci, F. Necati Catbas* \
+AI in Civil Engineering [[Paper](https://link.springer.com/article/10.1007/s43503-023-00016-0)] \
+02 August 2023
+
+
+
+
+
+
+
+
+
 ## Data Generation for Various SHM Applications
 
-### Data Generation (focused on direct-content generation and model generative-ability, e.g., data feature capturing, distrubition construction, etc.)
+### Data Generation (focused on direct-content generation and model's generative-ability, e.g., data feature capturing, distrubition construction, etc.)
 
 **Generative Model of Acceleration Data for Deep Learning-based Damage Detection for Bridges Using Generative Adversarial Network** \
 *Lee Kanghyeok, Shin Do Hyoung* \
@@ -284,6 +302,11 @@ Frontiers in Built Environment [[Paper](https://www.frontiersin.org/articles/10.
 Sensors [[Paper](https://www.mdpi.com/1424-8220/22/10/3848)] \
 19 May 2022
 
+**Self-Supervised Metalearning Generative Adversarial Network for Few-Shot Fault Diagnosis of Hoisting System With Limited Data** \
+*Yang Li, Feiyun Xu, Chi-Guhn Lee* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9783112)] \
+27 May 2022
+
 **Autoregressive Deep Learning Models for Bridge Strain Prediction** \
 *Anastasios Panagiotis Psathas, Lazaros Iliadis, Dimitra V. Achillopoulou, Antonios Papaleonidas, Nikoleta K. Stamataki, Dimitris Bountas, Ioannis M. Dokas* \
 Engineering Applications of Neural Networks [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-08223-8_13)] \
@@ -329,10 +352,22 @@ Journal of Infrastructure Intelligence and Resilience [[Paper](https://www.scien
 Proceedings Volume 12536, Thermosense: Thermal Infrared Applications XLV [[Paper](https://doi.org/10.1117/12.2663951)] \
 12 June 2023
 
-**Self-Supervised Metalearning Generative Adversarial Network for Few-Shot Fault Diagnosis of Hoisting System With Limited Data** \
-*Yang Li, Feiyun Xu, Chi-Guhn Lee* \
-IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9783112)] \
-27 May 2022
+**A Data-Driven Based Response Reconstruction Method of Plate Structure with Conditional Generative Adversarial Network** \
+*He Zhang, Chengkan Xu, Jiqing Jiang, Jiangpeng Shu, Liangfeng Sun, Zhicheng Zhang* \
+Sensors [[Paper](https://doi.org/10.3390/s23156750)] \
+28 July 2023
+
+**Multi-modal generative adversarial networks for synthesizing time-series structural impact responses** \
+*Zhymir Thompson, Austin R.J. Downey, Jason D. Bakos, Jie Wei, Jacob Dodson* \
+Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2023.110725)] \
+9 September 2023
+
+
+
+
+
+
+
 
 
 ### Data Denoising, Repair, Deblurring, and Increased Resolution 
@@ -362,6 +397,21 @@ Journal of Soft Computing in Civil Engineering [[Paper](https://www.jsoftcivil.c
 Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.2993)] \
 11 May 2022
 
+**Vision-based displacement measurement enhanced by super-resolution using generative adversarial networks** \
+*Chujin Sun, Donglian Gu, Yi Zhang, Xinzheng Lu* \
+Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.3048)] \
+13 July 2022
+
+**A fast sparsity-free compressive sensing approach for vibration data reconstruction using deep convolutional GAN** \
+*Guan-Sen Dong, Hua-Ping Wan, Yaozhi Luo, Michael D. Todd* \
+Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2022.109937)] \
+26 November 2022
+
+**CrackDiffusion: crack inpainting with denoising diffusion models and crack segmentation perceptual score** \
+*Lizhou Chen, Luoyu Zhou, Lei Li, Mingzhang Luo* \
+Smart Materials and Structures [[Paper](https://iopscience.iop.org/article/10.1088/1361-665X/acc624)] \
+30 March 2023
+
 **Learning Structure for Concrete Crack Detection Using Robust Super-Resolution with Generative Adversarial Network** \
 *Jin Kim, Seungbo Shim, Seok-Jun Kang, Gye-Chun Cho* \
 Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/8850290/)] \
@@ -372,17 +422,26 @@ Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journa
 Soil Dynamics and Earthquake Engineering [[Paper](https://doi.org/10.1016/j.soildyn.2023.108061)] \
 4 July 2023
 
-**Vision-based displacement measurement enhanced by super-resolution using generative adversarial networks** \
-*Chujin Sun, Donglian Gu, Yi Zhang, Xinzheng Lu* \
-Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.3048)] \
-13 July 2022
-
 **Robust multitask compressive sampling via deep generative models for crack detection in structural health monitoring** \
 *Haoyu Zhang, Stephen Wu, Yong Huang, Hui Li* \
 Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217231183663)] \
 July 17, 2023
 
-### Leveraging Generative AI for Anomaly/Novelty/outlier Detection, Damage Diagnosis & Prognosis, and Model Updating
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Leveraging Generative AI for Anomaly/Novelty/outlier Detection, Damage Diagnosis & Prognosis, and Model Updating (not directly focused on content generation)
 
 **Toward data anomaly detection for automated structural health monitoring: Exploiting generative adversarial nets and autoencoders** \
 *Jianxiao Mao, Hao Wang, Billie F Spencer, Jr* \
@@ -403,6 +462,11 @@ Remote Sensing [[Paper](https://www.mdpi.com/2072-4292/12/24/4193)] \
 *Yoganand S, Chithra S* \
 The Computer Journal [[Paper](https://doi.org/10.1093/comjnl/bxab081)] \
 07 June 2021
+
+**Generative Adversarial Network for Damage Identification in Civil Structures** \
+*Zahra Rastin, Gholamreza Ghodrati Amiri, Ehsan Darvishan* \
+Shock and Vibration [[Paper](https://www.hindawi.com/journals/sv/2021/3987835/)] \
+06 Sept 2021
 
 **Toward a general unsupervised novelty detection framework in structural health monitoring** \
 *Mohammad Hesam Soleimani-Babakamali, Reza Sepasdar, Kourosh Nasrollahzadeh, Ismini Lourentzou, Rodrigo Sarlo* \
@@ -464,6 +528,11 @@ IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9869952)] \
 Applied Intelligence [[Paper](https://link.springer.com/article/10.1007/s10489-022-04163-2)] \
 20 September 2022
 
+**A comparative study of attention mechanism and generative adversarial network in facade damage segmentation** \
+*Fangzheng Lin, Jiesheng Yang, Jiangpeng Shu, Raimar J. Scherer* \
+arXiv [[Paper](https://arxiv.org/abs/2209.13283)] \
+27 Sep 2022
+
 **Unsupervised structural damage detection based on an improved generative adversarial network and cloud model** \
 *Yongpeng Luo, Xu Guo, Lin-Kun Wang, Jin-Ling Zheng, Jing-Liang Liu, Fei-Yu Liao* \
 Journal of Low Frequency Noise, Vibration and Active Control [[Paper](https://journals.sagepub.com/doi/full/10.1177/14613484221150804)] \
@@ -494,8 +563,23 @@ arXiv [[Paper](https://doi.org/10.48550/arXiv.2308.05350)] \
 Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/9278389/)] \
 07 Feb 2023
 
+**Concrete Crack Detection Using Deep Convolutional Generative Adversarial Network** \
+*Biswajit Padhi, Motahar Reza, Md. Salman Shams & Arcot Navya Sai* \
+Advanced Computing [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-35641-4_11)] \
+14 July 2023
+
 **Deep Representation Clustering of Multi-Type Damage Features Based on Unsupervised Generative Adversarial Network** \
 *Feng-Liang Zhang, Xiao Li, Jun Lei, Wei Xiang* \
 SSRN [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4518296)] \
 22 Jul 2023
+
+**Uncertainty-aware structural damage warning system using deep variational composite neural networks** \
+*Kareem A. Eltouny, Xiao Liang* \
+Earthquake Engineering & Structural Dynamics [[Paper](https://doi.org/10.1002/eqe.3892)] \
+24 April 2023
+
+
+
+
+
 
