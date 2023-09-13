@@ -188,7 +188,10 @@ IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10123949)] \
 Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/2430011/)] \
 22 July 2023
 
-
+**Effective Generative Data Augmentation in Condition Monitoring** \
+*Daniel Ortiz-Arroyo, Petar Durdevic* \
+IEEE Sensors Journal [[Paper](https://www.techrxiv.org/articles/preprint/Effective_Generative_Data_Augmentation_in_Condition_Monitoring/24024522)] \
+28 August 2023
 
 
 
