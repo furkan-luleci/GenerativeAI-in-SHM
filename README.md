@@ -133,6 +133,11 @@ Measurement [[Paper](https://doi.org/10.1016/j.measurement.2022.111219)] \
 KSCE Journal of Civil Engineering [[Paper](https://doi.org/10.1016/j.autcon.2022.104412)] \
 13 June 2022
 
+**Data Augmentation for Deep-Learning-Based Multiclass Structural Damage Detection Using Limited Information** \
+*Kyle Dunphy, Mohammad Navid Fekri,Katarina Grolinger, Ayan Sadhu* \
+Sensors [[Paper](https://www.mdpi.com/1424-8220/22/16/6193)] \
+18 August 2022
+
 **Improvement of Fiber Bragg Grating Wavelength Demodulation System by Cascading Generative Adversarial Network and Dense Neural Network** \
 *Shuna Li, Sufen Ren, Shengchao Chen, Benguo Yu* \
 Applied Sciences [[Paper](https://www.mdpi.com/2076-3417/12/18/9031)] \
@@ -158,11 +163,10 @@ IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10058512)] \
 Journal of Civil Structural Health Monitoring [[Paper](https://link.springer.com/article/10.1007/s13349-023-00705-5)] \
 11 May 2023
 
-**Data Augmentation for Deep-Learning-Based Multiclass Structural Damage Detection Using Limited Information** \
-*Kyle Dunphy, Mohammad Navid Fekri,Katarina Grolinger, Ayan Sadhu* \
-Sensors [[Paper](https://www.mdpi.com/1424-8220/22/16/6193)] \
-18 August 2022
-
+**Data Anomaly Detection through Semisupervised Learning Aided by Customised Data Augmentation Techniques** \
+*Xiaoyou Wang, Yao Du, Xiaoqing Zhou, Yong Xia* \
+Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/2430011/)] \
+22 July 2023
 
 ## Data Domain Translation
 
@@ -201,6 +205,11 @@ Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymss
 Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2023.110370)] \
 23 April 2023
 
+**Unsupervised deep learning-based ground penetrating radar image translation for internal defect recognition of underground engineering structures** \
+*Zhengfang Wang, Ming Lei, Jing Wang, Bo Li, Jing Xu, Yuchen Jiang, Qingmei Sui, Yao Li* \
+Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217231173314)] \
+May 16, 2023
+
 **Damage analysis and quantification of RC beams assisted by Damage-T Generative Adversarial Network** \
 *Yanzhi Qi, Cheng Yuan, Peizhen Li, Qingzhao Kong* \
 Engineering Applications of Artificial Intelligence [[Paper](https://doi.org/10.1016/j.engappai.2022.105536)] \
@@ -210,8 +219,6 @@ Engineering Applications of Artificial Intelligence [[Paper](https://doi.org/10.
 *Furkan Luleci, F. Necati Catbas* \
 arXiv [[Paper](https://doi.org/10.48550/arXiv.2212.14048)] \
 28 December 2022 
-
-
 
 ## Data Generation for Various SHM Applications
 
@@ -312,11 +319,20 @@ IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10122886)] \
 Structures [[Paper](https://doi.org/10.1016/j.istruc.2023.05.151)] \
 11 June 2023
 
+**Generative adversarial network for predicting visible deterioration and NDE condition maps in highway bridge decks** \
+*Amirali Najafi, John Braley, Nenad Gucunski, Ali Maher* \
+Journal of Infrastructure Intelligence and Resilience [[Paper](https://www.sciencedirect.com/science/article/pii/S2772991523000178)] \
+2 June 2023
+
 **Generative adversarial networks for real-time realistic physics simulations** \
 *Mark Harlow, Matthew Martinez, Xiaoyan Han, Stoian Borissov, Jason Hill* \
 Proceedings Volume 12536, Thermosense: Thermal Infrared Applications XLV [[Paper](https://doi.org/10.1117/12.2663951)] \
 12 June 2023
 
+**Self-Supervised Metalearning Generative Adversarial Network for Few-Shot Fault Diagnosis of Hoisting System With Limited Data** \
+*Yang Li, Feiyun Xu, Chi-Guhn Lee* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9783112)] \
+27 May 2022
 
 
 ### Data Denoising, Repair, Deblurring, and Increased Resolution 
@@ -422,6 +438,11 @@ May 21, 2022
 *YUAN Cheng, XIONG Qing-song, QIN Xiao-ming, XIONG Hai-bei, KONG Qing-zhao* \
 Engineering Mechanics [[Paper](https://www.engineeringmechanics.cn/en/article/doi/10.6052/j.issn.1000-4750.2022.05.0480)] \
 30 May 2022
+
+**Anomaly Detection by Unsupervised Adversarial Generative Self-labelling Autoencoder** \
+*Deyi Zeng* \
+IEEE [[Paper](https://doi.org/10.1109/ICAICA54878.2022.9844459)] \
+05 August 2022
 
 **Dam safety assessment through data-level anomaly detection and information fusion** \
 *Yuhang Zhou, Xiaosong Shu, Tengfei Bao, Yangtao Li, Kang Zhang* \
