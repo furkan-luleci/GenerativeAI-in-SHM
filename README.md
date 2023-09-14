@@ -38,7 +38,7 @@ With the release of generative language models (ChatGPT, LLaMA, etc.) or generat
 
 For instance, this [source](https://medium.com/@fareedkhandev/scikit-llm-sklearn-meets-large-language-models-11fc6f30e530) explains how to use ChatGPT API in your research purposes.
 
-<ins>Please let me know</ins> in the Pull Requests tab above or personally email me if I missed any studies or if you see any error/typo in this repo. You can find my email address on my website [here](https://furkan-luleci.github.io/). I'd appreciate any contribution to this repo.
+<ins>Please let me know</ins> in the Issues tab above or personally email me if I missed any studies or if you see any error/typo in this repo. You can find my email address on my website [here](https://furkan-luleci.github.io/). I'd appreciate any contribution to this repo.
 
 Thanks!
 
