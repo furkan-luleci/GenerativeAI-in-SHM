@@ -7,8 +7,23 @@
 Assumptions: GANs, VAEs, FBMs, AMs, EBMs
 
 
+## Contents
+- [Studies](#studies)
+- [Survey](#survey)
+- [Lost Data Reconstruction](#lost-data-reconstruction)
+- [Data Augmentation](#data-augmentation)
+- [Data Domain Translation](#data-domain-translation)
+- [Data Generation for Various SHM Applications](#data-generation-for-various-shm-applications)
+  - [Data Generation (focused on direct-content generation and model's generative-ability, e.g., data feature capturing, distribution construction, etc.)](#data-generation-(focused-on-direct-content-generation-and-model's-generative-ability,-e.g.,-data-feature-capturing,-distribution-construction,-etc.))
+  - [Data Denoising, Repair, Deblurring, and Increased Resolution](#data-denoising,-repair,-deblurring,-and-increased-resolution)
+  - [Leveraging Generative AI for Anomaly/Novelty/Outlier Detection, Damage Diagnosis/Prognosis, Physics-based Modeling, and other Condition Assessment Techniques - (the studies here are not directly focused on content generation)
+](#leveraging-generative-ai-for-anomaly/novelty/outlier-detection,-damage-diagnosis/prognosis,-physics-based-modeling,and-other-condition-assessment-techniques-(the-studies-here-are-not-directly-focused-on-content-generation)
+)
 
 
+
+
+## Studies
 
 ## Survey
 
@@ -283,7 +298,7 @@ AI in Civil Engineering [[Paper](https://link.springer.com/article/10.1007/s4350
 
 ## Data Generation for Various SHM Applications
 
-### *Data Generation (focused on direct-content generation and model's generative-ability, e.g., data feature capturing, distrubition construction, etc.)*
+### *Data Generation (focused on direct-content generation and model's generative-ability, e.g., data feature capturing, distrubution construction, etc.)*
 
 **Generative Model of Acceleration Data for Deep Learning-based Damage Detection for Bridges Using Generative Adversarial Network** \
 *Lee Kanghyeok, Shin Do Hyoung* \
