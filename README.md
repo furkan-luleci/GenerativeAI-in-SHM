@@ -33,7 +33,7 @@ The four main applications of generative AI in civil SHM are *lost data reconstr
 
 With the release of generative language models (ChatGPT, LLaMA, etc.) or generative art models (Dalle, Midjourney. etc.), I expect <ins>the next-generation studies in the SHM</ins> will look into (or they may have already started) integrating the APIs of these models for various kinds of research purposes, such as:
 
-- Generating various crack images using generative art models to train crack-classifier to <ins>improved detection performance</ins> or,
+- Generating various crack images or point clouds using generative art models to train crack-classifier to <ins>improved detection performance</ins> or,
 - Using generative language models to enhance the <ins>decision-making</ins> process after damage diagnosis/prognosis.
 
 <ins>Please let me know</ins> in the Pull Requests tab above or personally email me if I missed any studies or if you see any error/typo in this repo. You can find my email address on my website [here](https://furkan-luleci.github.io/). I'd appreciate any contribution to this repo.
