@@ -803,8 +803,3 @@ SSRN [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4518296)] \
 arXiv [[Paper](https://doi.org/10.48550/arXiv.2308.05350)] \
 10 August 2023
 
-
-## Image Generation via Generative Art Models
-
-## Text Generation via Generative Language Models
-
