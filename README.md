@@ -143,6 +143,11 @@ KSCE Journal of Civil Engineering [[Paper](https://link.springer.com/article/10.
 Measurement [[Paper](https://doi.org/10.1016/j.measurement.2022.111219)] \
 19 April 2022
 
+**The Multiclass Fault Diagnosis of Wind Turbine Bearing Based on Multisource Signal Fusion and Deep Learning Generative Model** \
+*Liang Zhang; Hao Zhang; Guowei Cai* \
+IEEE [[Paper](https://www.techrxiv.org/articles/preprint/Effective_Generative_Data_Augmentation_in_Condition_Monitoring/24024522)] \
+27 May 2022
+
 **Attention-based generative adversarial network with internal damage segmentation using thermography** \
 *Rahmat Ali, Young-Jin Cha* \
 KSCE Journal of Civil Engineering [[Paper](https://doi.org/10.1016/j.autcon.2022.104412)] \
@@ -441,6 +446,11 @@ Structural Control and Health Monitoring [[Paper](https://doi.org/10.1002/stc.30
 Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2022.109937)] \
 26 November 2022
 
+**Anomaly detection for wind turbine pitch bearings via autoencoder enhanced nonlinear autoregressive model** \
+*Chao Zhang, Long Zhang* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10058286)] \
+13 March 2023
+
 **CrackDiffusion: crack inpainting with denoising diffusion models and crack segmentation perceptual score** \
 *Lizhou Chen, Luoyu Zhou, Lei Li, Mingzhang Luo* \
 Smart Materials and Structures [[Paper](https://iopscience.iop.org/article/10.1088/1361-665X/acc624)] \
@@ -450,6 +460,11 @@ Smart Materials and Structures [[Paper](https://iopscience.iop.org/article/10.10
 *Jin Kim, Seungbo Shim, Seok-Jun Kang, Gye-Chun Cho* \
 Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/8850290/)] \
 04 Apr 2023
+
+**Multi-component condition monitoring method for wind turbine gearbox based on adaptive noise reduction** \
+*Yang Chen, Yongqian Liu, Shuang Han, Yanhui Qiao* \
+Structural Health Monitoring [[Paper](https://doi.org/10.1049/rpg2.12772)] \
+12 June 2023
 
 **Structural floor acceleration denoising method using generative adversarial network** \
 *Junkai Shen, Lingxin Zhang, Koichi Kusunoki, Trevor Zhiqing Yeow* \
@@ -461,10 +476,6 @@ Soil Dynamics and Earthquake Engineering [[Paper](https://doi.org/10.1016/j.soil
 Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217231183663)] \
 July 17, 2023
 
-**Anomaly detection for wind turbine pitch bearings via autoencoder enhanced nonlinear autoregressive model** \
-*Chao Zhang, Long Zhang* \
-IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10058286)] \
-13 March 2023
 
 
 
@@ -478,7 +489,13 @@ IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/10058286)] \
 
 
 
-### Leveraging Generative AI for Anomaly/Novelty/outlier Detection, Damage Diagnosis/Prognosis, and Physics-based Modeling (the studies here not directly focused on content generation)
+
+### Leveraging Generative AI for Anomaly/Novelty/Outlier Detection, Damage Diagnosis/Prognosis, Physics-based Modeling, and other Condition Assessment Techniques - (the studies here are not directly focused on content generation)
+
+**Structural damage identification based on unsupervised feature-extraction via Variational Auto-encoder** \
+*Xirui Ma, Yizhou Lin, Zhenhua Nie, Hongwei Ma* \
+Measurement [[Paper](https://doi.org/10.1177/14759217221103016)] \
+13 April 2020
 
 **Toward data anomaly detection for automated structural health monitoring: Exploiting generative adversarial nets and autoencoders** \
 *Jianxiao Mao, Hao Wang, Billie F Spencer, Jr* \
@@ -595,6 +612,16 @@ Human-Centric Intelligent Systems [[Paper](https://link.springer.com/article/10.
 arXiv [[Paper](https://arxiv.org/abs/2210.02449)] \
 5 Oct 2022
 
+**An unsupervised structural health monitoring framework based on Variational Autoencoders and Hidden Markov Models** \
+*Eduardo M. Coraça, Janito V. Ferreira, Eurípedes G.O. Nóbrega* \
+Reliability Engineering & System Safety [[Paper](https://doi.org/10.1016/j.ress.2022.109025)] \
+9 December 2022
+
+**A deep generative model based on CNN-CVAE for wind turbine condition monitoring** \
+*Jiarui Liu, Guotian Yang, Xinli Li, Shumin Hao, Yingming Guan, Yaqi Li* \
+Measurement Science and Technology [[Paper](https://iopscience.iop.org/article/10.1088/1361-6501/aca496/meta)] \
+6 December 2022
+
 **A GAN-based fault detection for dynamic process with deconvolutional networks** \
 *Dapeng Zhang, Zhiwei Gao* \
 IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9976142)] \
@@ -610,6 +637,16 @@ January 12, 2023
 Structural Control and Health Monitoring [[Paper](https://www.hindawi.com/journals/schm/2023/9278389/)] \
 07 Feb 2023
 
+**Unsupervised learning-based framework for indirect structural health monitoring using adversarial autoencoder** \
+*A. Calderon Hurtado, K. Kaur, M. Makki Alamdari, E. Atroshchenko, K.C. Chang, C.W. Kim* \
+arXiv [[Paper](https://doi.org/10.1016/j.jsv.2023.117598)] \
+11 February 2023
+
+**VpROM: A novel Variational AutoEncoder-boosted Reduced Order Model for the treatment of parametric dependencies in nonlinear systems** \
+*Thomas Simpson, Konstantinos Vlachas, Anthony Garland, Nikolaos Dervilis, Eleni Chatzi* \
+arXiv [[Paper](https://arxiv.org/abs/2304.12437)] \
+11 Apr 2023
+
 **A Semi-Supervised Learning Approach for Pixel-Level Pavement Anomaly Detection** \
 *Ruiqi Ren, Peixin Shi, Pengjiao Jia, Xiangyang Xu* \
 IEEE [[Paper](https://ieeexplore.ieee.org/document/10106612)] \
@@ -624,6 +661,11 @@ Earthquake Engineering & Structural Dynamics [[Paper](https://doi.org/10.1002/eq
 *Mohammad Hesam Soleimani-Babakamali, Roksana Soleimani-Babakamali, Kourosh Nasrollahzadeh, Onur Avci, Serkan Kiranyaz, Ertugrul Taciroglu* \
 Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2023.110404)] \
 9 May 2023
+
+**Early Detection and Diagnosis of Wind Turbine Abnormal Conditions Using an Interpretable Supervised Variational Autoencoder Model** \
+*Adaiton Oliveira-Filho, Adaiton Oliveira-Filho, Ryad Zemouri, Philippe Cambron, Antoine Tahan* \
+Energies [[Paper](https://doi.org/10.3390/en16124544)] \
+6 June 2023
 
 **Microstructural image based convolutional neural networks for efficient prediction of full-field stress maps in short fiber polymer composites** \
 *S. Gupta, T. Mukhopadhyay, V. Kushvaha* \
