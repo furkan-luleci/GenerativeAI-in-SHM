@@ -4,9 +4,10 @@
 
 <ins>The goal of this repository</ins> is to help researchers get updated about the studies conducted using generative AI models in the civil Structural Health Monitoring (SHM) area. 
 
-Thus, <ins>**the repository herein presents**</ins> the direct and indirect use of Deep Generative Models (DGMs): *Generative Adversarial Networks (GANs)*, *Variational Autoencoders (VAEs)*, *Diffusion Models (DMs)*, *Flow-Based Models (FBMs)*, *Energy-Based Models (EBMs)*, and *Autoregressive Models (AMs)*, in the context of civil SHM applications to date.
+Thus, <ins>**the repository herein presents**</ins> the direct and indirect use of Deep Generative Models (DGMs): *Generative Adversarial Networks (GANs)*, *Variational Autoencoders (VAEs)*, *Diffusion Models (DMs)*, *Flow-Based Models (FBMs)*, *Energy-Based Models (EBMs)*, and *Autoregressive Models (AMs)*, in the context of civil SHM research area to date.
 
-While the discriminative AI approaches have been prevalent ever since the data-driven applications were used in the civil SHM domain, the DGMs are the generative AI models used for generative AI tasks, and their use has been observed increasingly lately. Thus, <ins>**this repo aims to present**</ins> these generative AI models used for SHM applications in research.
+While the discriminative AI approaches have been prevalent ever since the data-driven applications were used in the civil SHM domain, the DGMs are the generative AI models used for generative AI tasks, and their use has been observed increasingly lately. 
+
 
 ### A brief background:
 
