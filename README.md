@@ -40,11 +40,10 @@ Thanks!
 - [Lost Data Reconstruction](#lost-data-reconstruction)
 - [Data Augmentation](#data-augmentation)
 - [Data Domain Translation](#data-domain-translation)
-- [Data Denoising, Repair, Deblurring, and Increased Resolution](#data-denoising,-repair,-deblurring,-and-increased-resolution)
+- [Data Denoising, Repair, Deblurring, and Increased Resolution](#data-denoising-repair-deblurring-and-increased-resolution)
 - [Data Generation for Various Other SHM Applications](#data-generation-for-various-other-shm-applications)
   - [Data Generation (focused on direct-content generation and model's generative-ability, e.g., data feature capturing, distribution construction, etc.)](#data-generation-(focused-on-direct-content-generation-and-model's-generative-ability,-e.g.,-data-feature-capturing,-distribution-reconstruction,-etc.))
   - [Leveraging Generative AI for Anomaly/Novelty/Outlier Detection, Damage Diagnosis/Prognosis, Physics-based Modeling, and other Condition Assessment Techniques - (the studies here are not directly focused on content generation)](#leveraging-generative-ai-for-anomaly/novelty/outlier-detection,-damage-diagnosis/prognosis,-physics-based-modeling,and-other-condition-assessment-techniques-(the-studies-here-are-not-directly-focused-on-content-generation))
-
 
 
 
