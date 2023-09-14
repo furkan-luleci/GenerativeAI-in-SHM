@@ -407,9 +407,20 @@ Sensors [[Paper](https://doi.org/10.3390/s23156750)] \
 Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2023.110725)] \
 9 September 2023
 
+**Deep digital twins for detection, diagnostics and prognostics** \
+*Wihan Booyse, Daniel N. Wilke, Stephan Heyns* \
+Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2019.106612)] \
+1 February 2020
 
+**Reconstruction of long-term strain data for structural health monitoring with a hybrid deep-learning and autoregressive model considering thermal effects** \
+*Chengbin Chen, Liqun Tang, Yonghui Lu, Yong Wang, Zejia Liu, Yiping Liu, Licheng Zhou, Zhenyu Jiang, Bao Yang* \
+Engineering Structures [[Paper](https://doi.org/10.1016/j.engstruct.2023.116063)] \
+7 April 2023
 
-
+**Application of advanced statistical methods for extracting long-term trends in static monitoring data from an arch dam** \
+*Chin-Hsiung Loh, Chia-Hui Chen, Ting-Yu Hsu* \
+Structural Health Monitoring [[Paper](https://doi.org/10.1177/1475921710395807)] \
+7 April 2023
 
 
 
@@ -504,6 +515,11 @@ July 17, 2023
 The Hong Kong Polytechnic University [[Paper](https://research.polyu.edu.hk/en/publications/variational-autoencoder-based-approach-for-rail-defect-identifica)] \
 1 Jan 2019
 
+**Deep Unsupervised Learning for Condition Monitoring and Prediction of High Dimensional Data with Application on Windfarm SCADA Data** \
+*C. Mylonas, I. Abdallah & E. N. Chatzi* \
+ Model Validation and Uncertainty Quantification [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-12075-7_21)] \
+31 May 2019
+
 **Structural damage identification based on unsupervised feature-extraction via Variational Auto-encoder** \
 *Xirui Ma, Yizhou Lin, Zhenhua Nie, Hongwei Ma* \
 Measurement [[Paper](https://doi.org/10.1177/14759217221103016)] \
@@ -518,6 +534,11 @@ June 7, 2020
 *S. M. Tilon, F. Nex, D. Duarte, N. Kerle, and G. Vosselman* \
 ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci. [[Paper](https://isprs-annals.copernicus.org/articles/V-2-2020/573/2020/)] \
 03 Aug 2020
+
+**Wind Turbine Gearbox Failure Detection Based on SCADA Data: A Deep Learning-Based Approach** \
+*Luoxiao Yang; Zijun Zhang* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9298851)] \
+18 December 2020
 
 **Post-Disaster Building Damage Detection from Earth Observation Imagery Using Unsupervised and Transferable Anomaly Detecting Generative Adversarial Networks** \
 *Sofia Tilon,Francesco Nex,Norman Kerle, George Vosselman* \
@@ -534,15 +555,30 @@ IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9339944)] \
 Wind Energy [[Paper](https://doi.org/10.1002/we.2621)] \
 11 February 2021
 
+**VAE-TALSTM: a temporal attention and variational autoencoder-based long short-term memory framework for dam displacement prediction** \
+*Xiaosong Shu, Tengfei Bao, Yangtao Li, Jian Gong & Kang Zhang* \
+Engineering with Computers [[Paper](https://link.springer.com/article/10.1007/s00366-021-01362-2)] \
+22 April 2021
+
 **Bat Ant Lion Optimization-Based Generative Adversarial Network For Structural Heath Monitoring In IoT** \
 *Yoganand S, Chithra S* \
 The Computer Journal [[Paper](https://doi.org/10.1093/comjnl/bxab081)] \
 07 June 2021
 
+**Dam anomaly assessment based on sequential variational autoencoder and evidence theory** \
+*Xiaosong Shu, Tengfei Bao, Ruichen Xu, Yangtao Li, Kang Zhang* \
+Applied Mathematical Modelling [[Paper](https://doi.org/10.48550/arXiv.2308.05350)] \
+27 June 2021
+
 **Generative Adversarial Network for Damage Identification in Civil Structures** \
 *Zahra Rastin, Gholamreza Ghodrati Amiri, Ehsan Darvishan* \
 Shock and Vibration [[Paper](https://www.hindawi.com/journals/sv/2021/3987835/)] \
 06 Sept 2021
+
+**An unsupervised method based on convolutional variational auto-encoder and anomaly detection algorithms for light rail squat localization** \
+*Zhandong Yuan, Shengyang Zhu, Chao Chang, Xuancheng Yuan, Qinglai Zhang, Wanming Zhai* \
+Construction and Building Materials [[Paper](https://doi.org/10.1016/j.conbuildmat.2021.125563)] \
+13 November 2021
 
 **Toward a general unsupervised novelty detection framework in structural health monitoring** \
 *Mohammad Hesam Soleimani-Babakamali, Reza Sepasdar, Kourosh Nasrollahzadeh, Ismini Lourentzou, Rodrigo Sarlo* \
@@ -593,6 +629,11 @@ ICCDA 2022: 2022 The 6th International Conference on Compute and Data Analysis [
 *YUAN Cheng, XIONG Qing-song, QIN Xiao-ming, XIONG Hai-bei, KONG Qing-zhao* \
 Engineering Mechanics [[Paper](https://www.engineeringmechanics.cn/en/article/doi/10.6052/j.issn.1000-4750.2022.05.0480)] \
 30 May 2022
+
+**Anomaly Detection with Autoencoders as a Tool for Detecting Sensor Malfunctions** \
+*Artur Liebert, Wolfgang Weber, Sebastian Reif, Bernd Zimmering, Oliver Niggemann* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9816908)] \
+18 July 2022
 
 **Anomaly Detection by Unsupervised Adversarial Generative Self-labelling Autoencoder** \
 *Deyi Zeng* \
@@ -713,11 +754,4 @@ SSRN [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4518296)] \
 *Mahindra Rautela, Amin Maghareh, Shirley Dyke, S. Gopalakrishnan* \
 arXiv [[Paper](https://doi.org/10.48550/arXiv.2308.05350)] \
 10 August 2023
-
-**An unsupervised method based on convolutional variational auto-encoder and anomaly detection algorithms for light rail squat localization** \
-*Zhandong Yuan, Shengyang Zhu, Chao Chang, Xuancheng Yuan, Qinglai Zhang, Wanming Zhai* \
-Construction and Building Materials [[Paper](https://doi.org/10.1016/j.conbuildmat.2021.125563)] \
-13 November 2021
-
-
 
