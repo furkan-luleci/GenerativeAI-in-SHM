@@ -1,5 +1,13 @@
 # Generative AI in Civil SHM
+
+
+
+
+
 Assumptions: GANs, VAEs, FBMs, AMs, EBMs
+
+
+
 
 
 ## Survey
