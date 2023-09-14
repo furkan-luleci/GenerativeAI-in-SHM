@@ -2,19 +2,19 @@
 
 ### Objective:
 
-<ins>The goal of this repository</ins> is to help researchers get updated about the use of Generative AI in the civil SHM area. 
+<ins>The goal of this repository</ins> is to help researchers get updated about the studies conducted using generative AI models in the civil Structural Health Monitoring (SHM) area. 
 
-<ins>**The repository here presents**</ins> the direct and indirect use of Deep Generative Models (DGMs): *Generative Adversarial Networks (GANs)*, *Variational Autoencoders (VAEs)*, *Diffusion Models (DMs)*, *Flow-Based Models (FBMs)*, *Energy-Based Models (EBMs)*, and *Autoregressive Models (AMs)*, in the context of civil Structural Health Monitoring (SHM) applications to date.
+Thus, <ins>**the repository herein presents**</ins> the direct and indirect use of Deep Generative Models (DGMs): *Generative Adversarial Networks (GANs)*, *Variational Autoencoders (VAEs)*, *Diffusion Models (DMs)*, *Flow-Based Models (FBMs)*, *Energy-Based Models (EBMs)*, and *Autoregressive Models (AMs)*, in the context of civil SHM applications to date.
 
-While the discriminative AI approaches have been prevalent ever since the data-driven applications were used in the civil SHM domain, the DGMs are the essential AI models used for generative AI tasks, and their use has been increasingly observed lately. Thus, <ins>**this repo aims to present**</ins> these generative AI models used for SHM applications in research.
+While the discriminative AI approaches have been prevalent ever since the data-driven applications were used in the civil SHM domain, the DGMs are the generative AI models used for generative AI tasks, and their use has been observed increasingly lately. Thus, <ins>**this repo aims to present**</ins> these generative AI models used for SHM applications in research.
 
 ### A brief background:
 
-Generative AI, as seen in models like ChatGPT, LLAMA, BARD, or PaLM, has become a part of our daily lives, but its origins in the generative AI research field go back to the 2010s with the development of Deep Learning models, like RNNs and CNNs, which improved the generative tasks significantly, allowing computers to generate data that resembles human-generated content. The AI research field, in fact, dates back as early as the 1950s, when Alan Turing made important contributions. However, the term “generative AI” gained widespread recognition more recently with the release of models like ChatGPT. These generative AI models have demonstrated impressive generative skills and have been applied in various domains, from natural language generation to art creation.
+Generative AI, as seen in large language models like ChatGPT, LLAMA, BARD, or PaLM, and other image-based generative models used for text-to-image applications, such as Dalle, Midjourney, StableDiffusion, or Imagen, has become a part of our daily lives. The origins of the generative AI research field go back to the 2010s with the development of Deep Learning models, like RNNs and CNNs, which improved the generative tasks significantly, allowing computers to generate data that resembles human-generated content. The AI research field, in fact, dates back as early as the 1950s, when Alan Turing made important contributions. However, the term “generative AI” gained widespread recognition more recently with the release of generative models like ChatGPT. These generative AI models have demonstrated impressive generative skills and have been applied in various domains, from natural language generation to art creation.
 
 ### In civil SHM:
 
-The earliest use of generative AI started with using AMs more than a decade ago. The use of AMs has been a very popular research activity in many SHM studies, but largely for feature extraction purposes, more than the generative tasks. I have identified a few studies that use AMs for generative tasks e.g., signal reconstruction. However, there are over a hundred studies that deal with feature extraction (I've included a few of the representative recent studies that directly focused on data generation using AMs in this repo). Also, considering that subsequently developed DGMs, such as VAEs, GANs, or DMs, demonstrate better generative performances than AMs [ref1](https://ieeexplore.ieee.org/abstract/document/9555209), [ref2](https://link.springer.com/article/10.1007/s43503-023-00017-z), I’ve excluded AMs in this repo and hope to include them later in the future.
+The earliest use of generative AI started with using AMs more than a decade ago. The use of AMs has been a very popular research activity in many SHM studies, but largely for feature extraction purposes, more than the generative tasks. I have identified a few studies that use AMs for generative tasks e.g., signal reconstruction. However, there are over a hundred studies that deal with feature extraction (I've included a few of the representative recent studies that directly focused on data generation using AMs in this repo). Also, considering that subsequently developed DGMs, such as VAEs, GANs, or DMs, demonstrate better generative performances than AMs [ref1](https://ieeexplore.ieee.org/abstract/document/9555209), [ref2](https://link.springer.com/article/10.1007/s43503-023-00017-z). Because of these reasons, I’ve excluded AMs in this repo and hope to include them later in the future when I can spare more time on this.
 
 ### In civil SHM (without AMs): 
 
@@ -26,9 +26,11 @@ As the civil SHM study area is growing rapidly, the scope of the literature revi
 
 ### Note 2: 
 
-The four main applications of generative AI in civil SHM are lost data reconstruction, data augmentation, data domain translation, and data denoising, repair, deblurring, and increased resolution. I categorized the others as the studies focused on direct-content generation and the studies that are not directly focused on content generation.
+The four main applications of generative AI in civil SHM are *lost data reconstruction*, *data augmentation*, *data domain translation*, and *data denoising, repair, deblurring, and increased resolution*. I categorized the others as the studies focused on direct-content generation and the studies that are not directly focused on content generation.
 
-<ins>Please let me know if I missed any studies in the pull request or personally email me. I'd appreciate any contribution to this repo. Thanks!
+<ins>Please let me know</ins> in the Pull Requests tab above or personally email me at ([email link](furkanluleci@ucf.edu)). I'd appreciate any contribution to this repo. 
+
+Thanks!
 
 
 
