@@ -11,7 +11,7 @@ While the discriminative AI approaches have been prevalent ever since the data-d
 
 ### A brief background:
 
-Generative AI, as seen in large language models like ChatGPT, LLAMA, BARD, or PaLM, and other image-based generative models used for text-to-image applications, such as Dalle, Midjourney, StableDiffusion, or Imagen, has become a part of our daily lives. The origins of the generative AI research field go back to the 2010s with the development of Deep Learning models, like RNNs and CNNs, which improved the generative tasks significantly, allowing computers to generate data that resembles human-generated content. The AI research field, in fact, dates back as early as the 1950s, when Alan Turing made important contributions. However, the term “generative AI” gained widespread recognition more recently with the release of generative models like ChatGPT. These generative AI models have demonstrated impressive generative skills and have been applied in various domains, from natural language generation to art creation.
+Generative AI, as seen in large language models like ChatGPT, LLaMA, BARD, or PaLM, and other image-based generative models used for text-to-image applications, such as Dalle, Midjourney, StableDiffusion, or Imagen, has become a part of our daily lives. The origins of the generative AI research field go back to the 2010s with the development of Deep Learning models, like RNNs and CNNs, which improved the generative tasks significantly, allowing computers to generate data that resembles human-generated content. The AI research field, in fact, dates back as early as the 1950s, when Alan Turing made important contributions. However, the term “generative AI” gained widespread recognition more recently with the release of generative models like ChatGPT. These generative AI models have demonstrated impressive generative skills and have been applied in various domains, from natural language generation to art creation.
 
 ### In civil SHM:
 
@@ -27,9 +27,16 @@ As the civil SHM study area is growing rapidly, the scope of the literature revi
 
 ### Note 2: 
 
-The four main applications of generative AI in civil SHM are *lost data reconstruction*, *data augmentation*, *data domain translation*, and *data denoising, repair, deblurring, and increased resolution*. I categorized the others as the studies focused on direct-content generation and the studies that are not directly focused on content generation.
+The four main applications of generative AI in civil SHM are *lost data reconstruction*, *data augmentation*, *data domain translation*, and *data denoising, repair, deblurring, and increased resolution*. I categorized the others as the studies focused on direct-content generation and the studies that are not directly focused on content generation. 
 
-<ins>Please let me know</ins> in the Pull Requests tab above or personally email me, you can reach me at [here](https://furkan-luleci.github.io/). I'd appreciate any contribution to this repo. 
+### Note 3:
+
+With the release of generative language models (ChatGPT, LLaMA, etc.) or generative art models (Dalle, Midjourney. etc.), I expect <ins>the next-generation studies in the SHM</ins> will look into (or they may have already started) integrating the APIs of these models for various kinds of research purposes, such as:
+
+- Generating various crack images using generative art models to train crack-classifier to <ins>improved detection performance</ins> or,
+- Using generative language models to enhance the <ins>decision-making</ins> process after damage diagnosis/prognosis.
+
+<ins>Please let me know</ins> in the Pull Requests tab above or personally email me if I missed any studies or if you see any error/typo in this repo. You can find my email address on my website [here](https://furkan-luleci.github.io/). I'd appreciate any contribution to this repo.
 
 Thanks!
 
@@ -44,7 +51,6 @@ Thanks!
 - [Data Generation for Various Other SHM Applications](#data-generation-for-various-other-shm-applications)
   - [Data Generation (focused on direct-content generation and model's generative-ability, e.g., data feature capturing, distribution construction, etc.)](#data-generation-(focused-on-direct-content-generation-and-model's-generative-ability,-e.g.,-data-feature-capturing,-distribution-reconstruction,-etc.))
   - [Leveraging Generative AI for Anomaly/Novelty/Outlier Detection, Damage Diagnosis/Prognosis, Physics-based Modeling, and other Condition Assessment Techniques - (the studies here are not directly focused on content generation)](#leveraging-generative-ai-for-anomaly/novelty/outlier-detection,-damage-diagnosis/prognosis,-physics-based-modeling,and-other-condition-assessment-techniques-(the-studies-here-are-not-directly-focused-on-content-generation))
-
 
 
 
@@ -794,3 +800,9 @@ SSRN [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4518296)] \
 *Mahindra Rautela, Amin Maghareh, Shirley Dyke, S. Gopalakrishnan* \
 arXiv [[Paper](https://doi.org/10.48550/arXiv.2308.05350)] \
 10 August 2023
+
+
+## Image Generation via Generative Art Models
+
+## Text Generation via Generative Language Models
+
