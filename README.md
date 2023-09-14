@@ -29,7 +29,7 @@ As the civil SHM study area is growing rapidly, the scope of the literature revi
 
 The four main applications of generative AI in civil SHM are *lost data reconstruction*, *data augmentation*, *data domain translation*, and *data denoising, repair, deblurring, and increased resolution*. I categorized the others as the studies focused on direct-content generation and the studies that are not directly focused on content generation.
 
-<ins>Please let me know</ins> in the Pull Requests tab above or personally email me at ([email link](furkanluleci@ucf.edu)). I'd appreciate any contribution to this repo. 
+<ins>Please let me know</ins> in the Pull Requests tab above or personally email me, you can reach me at [here](https://furkan-luleci.github.io/). I'd appreciate any contribution to this repo. 
 
 Thanks!
 
