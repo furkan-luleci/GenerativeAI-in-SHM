@@ -2,7 +2,7 @@
 
 ### Objective:
 
-The goal of this repository is to help researchers get updated about the use of Generative AI in the civil SHM area. 
+<ins>The goal of this repository</ins> is to help researchers get updated about the use of Generative AI in the civil SHM area. 
 
 <ins>**The repository here presents**</ins> the direct and indirect use of Deep Generative Models (DGMs): *Generative Adversarial Networks (GANs)*, *Variational Autoencoders (VAEs)*, *Diffusion Models (DMs)*, *Flow-Based Models (FBMs)*, *Energy-Based Models (EBMs)*, and *Autoregressive Models (AMs)*, in the context of civil Structural Health Monitoring (SHM) applications to date.
 
