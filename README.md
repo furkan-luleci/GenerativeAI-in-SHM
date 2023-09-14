@@ -392,6 +392,11 @@ Journal of Infrastructure Intelligence and Resilience [[Paper](https://www.scien
 Proceedings Volume 12536, Thermosense: Thermal Infrared Applications XLV [[Paper](https://doi.org/10.1117/12.2663951)] \
 12 June 2023
 
+**Neural Extended Kalman Filters for Learning and Predicting Dynamics of Structural Systems** \
+*Wei Liu, Zhilu Lai, Kiran Bacsa, Eleni Chatzi* \
+Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217231179912)] \
+29 June 2023
+
 **A Data-Driven Based Response Reconstruction Method of Plate Structure with Conditional Generative Adversarial Network** \
 *He Zhang, Chengkan Xu, Jiqing Jiang, Jiangpeng Shu, Liangfeng Sun, Zhicheng Zhang* \
 Sensors [[Paper](https://doi.org/10.3390/s23156750)] \
@@ -401,6 +406,8 @@ Sensors [[Paper](https://doi.org/10.3390/s23156750)] \
 *Zhymir Thompson, Austin R.J. Downey, Jason D. Bakos, Jie Wei, Jacob Dodson* \
 Mechanical Systems and Signal Processing [[Paper](https://doi.org/10.1016/j.ymssp.2023.110725)] \
 9 September 2023
+
+
 
 
 
@@ -492,6 +499,11 @@ July 17, 2023
 
 ### Leveraging Generative AI for Anomaly/Novelty/Outlier Detection, Damage Diagnosis/Prognosis, Physics-based Modeling, and other Condition Assessment Techniques - (the studies here are not directly focused on content generation)
 
+**Variational autoencoder-based approach for rail defect identification** \
+*Yuan Hao Wei, Yi Qing Ni* \
+The Hong Kong Polytechnic University [[Paper](https://research.polyu.edu.hk/en/publications/variational-autoencoder-based-approach-for-rail-defect-identifica)] \
+1 Jan 2019
+
 **Structural damage identification based on unsupervised feature-extraction via Variational Auto-encoder** \
 *Xirui Ma, Yizhou Lin, Zhenhua Nie, Hongwei Ma* \
 Measurement [[Paper](https://doi.org/10.1177/14759217221103016)] \
@@ -511,6 +523,16 @@ ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci. [[Paper](https://isprs-ann
 *Sofia Tilon,Francesco Nex,Norman Kerle, George Vosselman* \
 Remote Sensing [[Paper](https://www.mdpi.com/2072-4292/12/24/4193)] \
 21 December 2020
+
+**Prognostics With Variational Autoencoder by Generative Adversarial Learning** \
+*Yu Huang, Yufei Tang, James VanZwieten* \
+IEEE [[Paper](https://ieeexplore.ieee.org/abstract/document/9339944)] \
+28 January 2021
+
+**Conditional variational autoencoders for probabilistic wind turbine blade fatigue estimation using Supervisory, Control, and Data Acquisition data** \
+*Charilaos Mylonas, Imad Abdallah, Eleni Chatzi* \
+Wind Energy [[Paper](https://doi.org/10.1002/we.2621)] \
+11 February 2021
 
 **Bat Ant Lion Optimization-Based Generative Adversarial Network For Structural Heath Monitoring In IoT** \
 *Yoganand S, Chithra S* \
@@ -691,5 +713,11 @@ SSRN [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4518296)] \
 *Mahindra Rautela, Amin Maghareh, Shirley Dyke, S. Gopalakrishnan* \
 arXiv [[Paper](https://doi.org/10.48550/arXiv.2308.05350)] \
 10 August 2023
+
+**An unsupervised method based on convolutional variational auto-encoder and anomaly detection algorithms for light rail squat localization** \
+*Zhandong Yuan, Shengyang Zhu, Chao Chang, Xuancheng Yuan, Qinglai Zhang, Wanming Zhai* \
+Construction and Building Materials [[Paper](https://doi.org/10.1016/j.conbuildmat.2021.125563)] \
+13 November 2021
+
 
 
