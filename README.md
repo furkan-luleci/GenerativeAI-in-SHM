@@ -275,7 +275,7 @@ AI in Civil Engineering [[Paper](https://link.springer.com/article/10.1007/s4350
 
 ## Data Generation for Various SHM Applications
 
-### Data Generation (focused on direct-content generation and model's generative-ability, e.g., data feature capturing, distrubition construction, etc.)
+### *Data Generation (focused on direct-content generation and model's generative-ability, e.g., data feature capturing, distrubition construction, etc.)*
 
 **Generative Model of Acceleration Data for Deep Learning-based Damage Detection for Bridges Using Generative Adversarial Network** \
 *Lee Kanghyeok, Shin Do Hyoung* \
@@ -427,7 +427,7 @@ Structural Health Monitoring [[Paper](https://doi.org/10.1177/1475921710395807)]
 
 
 
-### Data Denoising, Repair, Deblurring, and Increased Resolution 
+### *Data Denoising, Repair, Deblurring, and Increased Resolution* 
 
 **Application of improved least-square generative adversarial networks for rail crack detection by AE technique** \
 *Wang Kangwei, Zhang Xin, Hao Qiushi, Wang Yan, Shen Yi* \
@@ -508,7 +508,7 @@ July 17, 2023
 
 
 
-### Leveraging Generative AI for Anomaly/Novelty/Outlier Detection, Damage Diagnosis/Prognosis, Physics-based Modeling, and other Condition Assessment Techniques - (the studies here are not directly focused on content generation)
+### *Leveraging Generative AI for Anomaly/Novelty/Outlier Detection, Damage Diagnosis/Prognosis, Physics-based Modeling, and other Condition Assessment Techniques - (the studies here are not directly focused on content generation)*
 
 **Variational autoencoder-based approach for rail defect identification** \
 *Yuan Hao Wei, Yi Qing Ni* \
