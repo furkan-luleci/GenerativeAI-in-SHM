@@ -149,15 +149,15 @@ Masters thesis, Indian Institute of Technology Hyderabad [[Paper](https://raiith
 Journal of Lightwave Technology [[Paper](https://opg.optica.org/jlt/abstract.cfm?URI=jlt-37-18-4755)] \
 May 29, 2019
 
-**Unsupervised domain adaptation with self-attention for post-disaster building damage detection** \
-*Yundong Li, Chen Lin, Hongguang Li, Wei Hu, Han Dong, Yi Liu* \
-Neurocomputing [[Paper](https://doi.org/10.1016/j.neucom.2020.07.005)] \
-14 July 2020
-
 **Deep leaf-bootstrapping generative adversarial network for structural image data augmentation** \
 *Yuqing Gao, Boyuan Kong, Khalid M. Mosalam* \
 Computer-Aided Civil and Infrastructure Engineering [[Paper](https://doi.org/10.1111/mice.12458)] \
 18 July 2019
+
+**Unsupervised domain adaptation with self-attention for post-disaster building damage detection** \
+*Yundong Li, Chen Lin, Hongguang Li, Wei Hu, Han Dong, Yi Liu* \
+Neurocomputing [[Paper](https://doi.org/10.1016/j.neucom.2020.07.005)] \
+14 July 2020
 
 **Railway Fastener Fault Diagnosis Based on Generative Adversarial Network and Residual Network Model** \
 *Dechen Yao, Qiang Sun, Jianwei Yang, Hengchang Liu, Jiao Zhang* \
