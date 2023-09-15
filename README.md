@@ -42,6 +42,9 @@ For instance, this [source](https://medium.com/@fareedkhandev/scikit-llm-sklearn
 
 Thanks!
 
+If you use the work in your studies, please cite it as
+
+*Furkan Luleci, F. Necati Catbas. (2023). GenerativeAI-in-SHM. https://github.com/furkan-luleci/GenerativeAI-in-SHM.git*.
 
 
 ## Contents
