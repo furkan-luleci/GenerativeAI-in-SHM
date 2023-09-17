@@ -174,7 +174,7 @@ Computer-Aided Civil and Infrastructure Engineering [[Paper](https://doi.org/10.
 Structural Health Monitoring [[Paper](https://doi.org/10.1177/14759217211025488)] \
 13 July 2021
 
-**Fatigue Damage Diagnostics of Composites Using Data Fusion and Data Augmentation With Deep Neural Networks ** \
+**Fatigue Damage Diagnostics of Composites Using Data Fusion and Data Augmentation With Deep Neural Networks** \
 *Shweta Dabetwar, Stephen Ekwaro-Osire, João Paulo Dias* \
 ASME J Nondestructive Evaluation [[Paper](https://doi.org/10.1115/1.4051947)] \
 23 August 2021
