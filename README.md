@@ -44,7 +44,7 @@ Thanks!
 
 If you use the work in your studies, please cite it as
 
-*Furkan Luleci, F. Necati Catbas. (2023). GenerativeAI-in-SHM. https://github.com/furkan-luleci/GenerativeAI-in-SHM.git*.
+*Furkan Luleci, F. Necati Catbas. (2023). Generative Artificial Intelligence in Civil Structural Health Monitoring. https://github.com/furkan-luleci/GenerativeAI-in-SHM.git*.
 
 
 ## Contents
