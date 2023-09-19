@@ -1,4 +1,4 @@
-# Generative AI in Civil SHM
+# Generative AI in Civil SHM (updated in September 11, 2023)
 
 ### Objective:
 
