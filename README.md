@@ -42,8 +42,7 @@ For instance, this [source](https://medium.com/@fareedkhandev/scikit-llm-sklearn
 
 Thanks!
 
-If you use the work in your studies, please cite it as
-
+If you'd like to cite this repo:
 *Furkan Luleci, F. Necati Catbas. (2023). Generative Artificial Intelligence in Civil Structural Health Monitoring. https://github.com/furkan-luleci/GenerativeAI-in-SHM.git*.
 
 
